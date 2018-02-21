@@ -1,0 +1,37 @@
+
+\begin{table}
+\begin{center}
+\caption{Temporal ERGM of the TB Co-authorship Network.}
+\label{tab:tb_tergm}
+\hspace*{-1cm}
+\scriptsize
+\begin{tabular}{@{}lcclclclcl@{}}
+        \toprule
+           &  & Model 1 &  & Model 2  &  & Model 3&  & Model 4\\ \cmidrule{3-3} \cmidrule{5-5} \cmidrule{7-7} \cmidrule{9-9}
+           &  & Estimate ($SE$) &  & Estimate ($SE$)  &  & Estimate ($SE$) &  & Estimate ($SE$)\\
+\midrule
+Network structural predictor & & & & & & & & \\
+\hspace{10pt}Intercept(edge)    &  & $-3.75 \; (0.02)^{***}$ & & $-10.07 \; (0.15)^{***}$ & & $-10.01 \; (0.16)^{***}$ & & $-8.62 \; (0.28)^{***}$ \\\\
+Number of times cited       &  &       --    &  & $\hspace{6pt}0.00 \; (0.00)^{*~~~}$   &  & $\hspace{6pt}0.00 \; (0.00)^{~~~~}$      &  & $-0.00 \; (0.00)^{**~}$  \\
+Number of collaborations    &  &         --  &  & $\hspace{6pt}0.14 \; (0.00)^{***}$ &  & $\hspace{6pt}0.14 \; (0.00)^{***}$ &  & $\hspace{6pt}0.16 \; (0.00)^{***}$  \\
+Number of publications      &  &      --     &  & $\hspace{6pt}0.68 \; (0.03)^{***}$ &  & $\hspace{6pt}0.72 \; (0.03)^{***}$ &  & $\hspace{6pt}0.57 \; (0.03)^{***}$  \\
+Homophily on cluster assignment   &  & --     &  & $\hspace{6pt}5.24 \; (0.11)^{***}$ &  & $\hspace{6pt}5.23 \; (0.11)^{***}$ &  & $\hspace{6pt}5.40 \; (0.13)^{***}$  \\
+Homophily on collaboration type   &  &   --   &  & $\hspace{6pt}0.69 \; (0.08)^{***}$ &  & $\hspace{6pt}0.69 \; (0.08)^{***}$ &  & $\hspace{6pt}0.73 \; (0.09)^{***}$  \\\\
+Factor attribute effect (collaboration type) & & & & & & & & \\
+\hspace{10pt}International (REF) & & & & & & & & \\
+\hspace{10pt}National  &  &  --   &  &   --   &  & $-0.21 \; (0.07)^{**~}$ &  & $-0.34 \; (0.08)^{***}$ \\
+\hspace{10pt}Regional &  &    --  &  &   --   &  & $\hspace{6pt}0.03 \; (0.07)^{~~~~}$ &  & $\hspace{6pt}0.03 \; (0.08)^{~~~~}$    \\\\
+Temporal dependencies & & & & & & & & \\
+\hspace{10pt}Dyadic stability  &  &  --  &  &  -- &  &   --  &  & $\hspace{6pt}0.44 \; (0.07)^{***}$  \\
+\hspace{10pt}Linear trends     &  &  --  &  &  -- &  &   --  &  & $-0.36 \; (0.06)^{***}$ \\
+\midrule
+AIC    & & $\hspace{6pt}431184.00$   & & $\hspace{6pt}419860.54$ & & $\hspace{6pt}419853.82$ & & $\hspace{6pt}253170.25$   \\
+BIC    & & $\hspace{6pt}431205.66$ & & $\hspace{6pt}419936.36$ & & $\hspace{6pt}419951.30$ & & $\hspace{6pt}253284.48$    \\
+Log Likelihood    & & $-215590.00$ & & $-209923.27$ & & $-209917.91$ & & $-126574.12$ \\
+\bottomrule
+\multicolumn{5}{l}{\scriptsize{$^{***}p<0.001$, $^{**}p<0.01$, $^*p<0.05$}}
+\end{tabular}
+\caption{Temporal ERGM of the TB Co-authorship Network.}
+\label{tab:tb_tergm}
+\end{center}
+\end{table}

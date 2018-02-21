@@ -1,0 +1,1320 @@
+\begin{thebibliography}{140}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Davis and Lederberg(2001)]{davis_emerging_2001}
+Jonathan~R Davis and Joshua Lederberg.
+\newblock \emph{Emerging Infectious Diseases from the Global to the Local
+  Perspective: Workshop Summary}.
+\newblock {National Academies Press}, 2001.
+\newblock ISBN 0-309-07184-4.
+\newblock 00021.
+
+\bibitem[Gallup and Sachs(2001)]{gallup_economic_2001}
+John~Luke Gallup and Jeffrey~D Sachs.
+\newblock The economic burden of malaria.
+\newblock \emph{The American journal of tropical medicine and hygiene},
+  64\penalty0 (1 suppl):\penalty0 85--96, 2001.
+\newblock ISSN 0002-9637.
+\newblock 01510.
+
+\bibitem[Vitoria et~al.(2009)Vitoria, Granich, Gilks, Gunneberg, Hosseini,
+  Were, Raviglione, and De~Cock]{vitoria_global_2009}
+M.~Vitoria, R.~Granich, C.~F. Gilks, C.~Gunneberg, M.~Hosseini, W.~Were,
+  M.~Raviglione, and K.~M. De~Cock.
+\newblock The {{Global Fight Against HIV}}/{{AIDS}}, {{Tuberculosis}}, and
+  {{Malaria}}: {{Current Status}} and {{Future Perspectives}}.
+\newblock \emph{American Journal of Clinical Pathology}, 131\penalty0
+  (6):\penalty0 844--848, June 2009.
+\newblock ISSN 0002-9173, 1943-7722.
+\newblock \doi{10.1309/AJCP5XHDB1PNAEYT}.
+\newblock 00003.
+
+\bibitem[Assembly(2000)]{assembly_united_2000}
+UN~General Assembly.
+\newblock United {{Nations}} millennium declaration.
+\newblock \emph{United Nations General Assembly}, 2000.
+\newblock 00156.
+
+\bibitem[Arthur(2014)]{arthur_institute_2014}
+Margaret Arthur.
+\newblock Institute for {{Health Metrics}} and {{Evaluation}}.
+\newblock \emph{Nursing Standard}, 28\penalty0 (42):\penalty0 32--32, 2014.
+\newblock ISSN 0029-6570.
+\newblock 00000.
+
+\bibitem[Murray et~al.(2014)Murray, Ortblad, Guinovart, Lim, Wolock, Roberts,
+  Dansereau, Graetz, Barber, Brown, Wang, Duber, Naghavi, Dicker, Dandona,
+  Salomon, Heuton, Foreman, Phillips, Fleming, Flaxman, Phillips, Johnson,
+  Coggeshall, Abd-Allah, Abera, Abraham, Abubakar, Abu-Raddad, Abu-Rmeileh,
+  Achoki, Adeyemo, Adou, Adsuar, Agardh, Akena, Al~Kahbouri, Alasfoor,
+  Albittar, Alcal{\'a}-Cerra, Alegretti, Alemu, Alfonso-Cristancho, Alhabib,
+  Ali, Alla, Allen, Alsharif, Alvarez, Alvis-Guzman, Amankwaa, Amare, Amini,
+  Ammar, Anderson, Antonio, Anwari, {\"A}rnl{\"o}v, Arsenijevic, Artaman,
+  Asghar, Assadi, Atkins, Badawi, Balakrishnan, Banerjee, Basu, Beardsley,
+  Bekele, Bell, Bernabe, Beyene, Bhala, Bhalla, Bhutta, Abdulhak, Binagwaho,
+  Blore, Basara, Bose, Brainin, Breitborde, Casta{\~n}eda-Orjuela,
+  Catal{\'a}-L{\'o}pez, Chadha, Chang, Chiang, Chuang, Colomar, Cooper, Cooper,
+  Courville, Cowie, Criqui, Dandona, Dayama, De~Leo, Degenhardt, Del Pozo-Cruz,
+  Deribe, Des~Jarlais, Dessalegn, Dharmaratne, Dilmen, Ding, Driscoll, Durrani,
+  Ellenbogen, Ermakov, Esteghamati, Faraon, Farzadfar, Fereshtehnejad, Fijabi,
+  Forouzanfar, Fra.Paleo, Gaffikin, Gamkrelidze, Gankp{\'e}, Geleijnse,
+  Gessner, Gibney, Ginawi, Glaser, Gona, Goto, Gouda, Gugnani, Gupta, Gupta,
+  Hafezi-Nejad, Hamadeh, Hammami, Hankey, Harb, Haro, Havmoeller, Hay,
+  Hedayati, Pi, Hoek, Hornberger, Hosgood, Hotez, Hoy, Huang, Iburg, Idrisov,
+  Innos, Jacobsen, Jeemon, Jensen, Jha, Jiang, Jonas, Juel, Kan, Kankindi,
+  Karam, Karch, Karema, Kaul, Kawakami, Kazi, Kemp, Kengne, Keren, Kereselidze,
+  Khader, Khalifa, Khan, Khang, Khonelidze, Kinfu, Kinge, Knibbs, Kokubo,
+  Kosen, Defo, Kulkarni, Kulkarni, Kumar, Kumar, Kumar, Kwan, Lai, Balaji, Lam,
+  Lan, Lansingh, Larson, Larsson, Lee, Leigh, Leinsalu, Leung, Li, Li, De~Lima,
+  Lin, Lipshultz, Liu, Liu, Lloyd, Lotufo, Machado, Maclachlan,
+  Magis-Rodriguez, Majdan, Mapoma, Marcenes, Marzan, Masci, Mashal,
+  Mason-Jones, Mayosi, Mazorodze, Mckay, Meaney, Mehndiratta, Mejia-Rodriguez,
+  Melaku, Memish, Mendoza, Miller, Mills, Mohammad, Mokdad, Mola, Monasta,
+  Montico, Moore, Mori, Moturi, Mukaigawara, Murthy, Naheed, Naidoo, Naldi,
+  Nangia, Narayan, Nash, Nejjari, Nelson, Neupane, Newton, Ng, Nisar, Nolte,
+  Norheim, Nowaseb, Nyakarahuka, Oh, Ohkubo, Olusanya, Omer, Opio, Orisakwe,
+  Pandian, Papachristou, Caicedo, Patten, Paul, Pavlin, Pearce, Pereira,
+  Pervaiz, Pesudovs, Petzold, Pourmalek, Qato, Quezada, Quistberg, Rafay,
+  Rahimi, Rahimi-Movaghar, Rahman, Raju, Rana, Razavi, Reilly, Remuzzi,
+  Richardus, Ronfani, Roy, Sabin, Saeedi, Sahraian, Samonte, Sawhney,
+  Schneider, Schwebel, Seedat, Sepanlou, Servan-Mori, Sheikhbahaei, Shibuya,
+  Shin, Shiue, Shivakoti, Sigfusdottir, Silberberg, Silva, Simard, Singh,
+  Skirbekk, Sliwa, Soneji, Soshnikov, Sreeramareddy, Stathopoulou,
+  Stroumpoulis, Swaminathan, Sykes, Tabb, Talongwa, Tenkorang, Terkawi,
+  Thomson, Thorne-Lyman, Towbin, Traebert, Tran, Dimbuene, Tsilimbaris,
+  Uchendu, Ukwaja, Uzun, Vallely, Vasankari, Venketasubramanian, Violante,
+  Vlassov, Vollset, Waller, Wallin, Wang, Wang, Wang, Weichenthal, Weiderpass,
+  Weintraub, Westerman, White, Wilkinson, Williams, Woldeyohannes, Wong, Xu,
+  Yang, Yano, Yentur, Yip, Yonemoto, Yoon, Younis, Yu, Jin, El~Sayed~Zaki,
+  Zhao, Zheng, Zhou, Zhu, Zou, Lopez, and Vos]{murray_global_2014}
+Christopher J~L Murray, Katrina~F Ortblad, Caterina Guinovart, Stephen~S Lim,
+  Timothy~M Wolock, D~Allen Roberts, Emily~A Dansereau, Nicholas Graetz, Ryan~M
+  Barber, Jonathan~C Brown, Haidong Wang, Herbert~C Duber, Mohsen Naghavi,
+  Daniel Dicker, Lalit Dandona, Joshua~A Salomon, Kyle~R Heuton, Kyle Foreman,
+  David~E Phillips, Thomas~D Fleming, Abraham~D Flaxman, Bryan~K Phillips,
+  Elizabeth~K Johnson, Megan~S Coggeshall, Foad Abd-Allah, Semaw~Ferede Abera,
+  Jerry~P Abraham, Ibrahim Abubakar, Laith~J Abu-Raddad, Niveen~Me Abu-Rmeileh,
+  Tom Achoki, Austine~Olufemi Adeyemo, Ars{\`e}ne~Kouablan Adou, Jos{\'e}~C
+  Adsuar, Emilie~Elisabet Agardh, Dickens Akena, Mazin~J Al~Kahbouri, Deena
+  Alasfoor, Mohammed~I Albittar, Gabriel Alcal{\'a}-Cerra, Miguel~Angel
+  Alegretti, Zewdie~Aderaw Alemu, Rafael Alfonso-Cristancho, Samia Alhabib,
+  Raghib Ali, Francois Alla, Peter~J Allen, Ubai Alsharif, Elena Alvarez,
+  Nelson Alvis-Guzman, Adansi~A Amankwaa, Azmeraw~T Amare, Hassan Amini, Walid
+  Ammar, Benjamin~O Anderson, Carl Abelardo~T Antonio, Palwasha Anwari, Johan
+  {\"A}rnl{\"o}v, Valentina S~Arsic Arsenijevic, Ali Artaman, Rana~J Asghar,
+  Reza Assadi, Lydia~S Atkins, Alaa Badawi, Kalpana Balakrishnan, Amitava
+  Banerjee, Sanjay Basu, Justin Beardsley, Tolesa Bekele, Michelle~L Bell,
+  Eduardo Bernabe, Tariku~Jibat Beyene, Neeraj Bhala, Ashish Bhalla, Zulfiqar~A
+  Bhutta, Aref~Bin Abdulhak, Agnes Binagwaho, Jed~D Blore, Berrak~Bora Basara,
+  Dipan Bose, Michael Brainin, Nicholas Breitborde, Carlos~A
+  Casta{\~n}eda-Orjuela, Ferr{\'a}n Catal{\'a}-L{\'o}pez, Vineet~K Chadha,
+  Jung-Chen Chang, Peggy Pei-Chia Chiang, Ting-Wu Chuang, Mercedes Colomar,
+  Leslie~Trumbull Cooper, Cyrus Cooper, Karen~J Courville, Benjamin~C Cowie,
+  Michael~H Criqui, Rakhi Dandona, Anand Dayama, Diego De~Leo, Louisa
+  Degenhardt, Borja Del Pozo-Cruz, Kebede Deribe, Don~C Des~Jarlais, Muluken
+  Dessalegn, Samath~D Dharmaratne, U{\u g}ur Dilmen, Eric~L Ding, Tim~R
+  Driscoll, Adnan~M Durrani, Richard~G Ellenbogen, Sergey~Petrovich Ermakov,
+  Alireza Esteghamati, Emerito Jose~A Faraon, Farshad Farzadfar, Seyed-Mohammad
+  Fereshtehnejad, Daniel~Obadare Fijabi, Mohammad~H Forouzanfar, Urbano
+  Fra.Paleo, Lynne Gaffikin, Amiran Gamkrelidze, Fortun{\'e}~Gb{\`e}toho
+  Gankp{\'e}, Johanna~M Geleijnse, Bradford~D Gessner, Katherine~B Gibney,
+  Ibrahim Abdelmageem~Mohamed Ginawi, Elizabeth~L Glaser, Philimon Gona,
+  Atsushi Goto, Hebe~N Gouda, Harish~Chander Gugnani, Rajeev Gupta, Rahul
+  Gupta, Nima Hafezi-Nejad, Randah~Ribhi Hamadeh, Mouhanad Hammami, Graeme~J
+  Hankey, Hilda~L Harb, Josep~Maria Haro, Rasmus Havmoeller, Simon~I Hay,
+  Mohammad~T Hedayati, Ileana B~Heredia Pi, Hans~W Hoek, John~C Hornberger,
+  H~Dean Hosgood, Peter~J Hotez, Damian~G Hoy, John~J Huang, Kim~M Iburg,
+  Bulat~T Idrisov, Kaire Innos, Kathryn~H Jacobsen, Panniyammakal Jeemon,
+  Paul~N Jensen, Vivekanand Jha, Guohong Jiang, Jost~B Jonas, Knud Juel,
+  Haidong Kan, Ida Kankindi, Nadim~E Karam, Andr{\'e} Karch, Corine~Kakizi
+  Karema, Anil Kaul, Norito Kawakami, Dhruv~S Kazi, Andrew~H Kemp, Andre~Pascal
+  Kengne, Andre Keren, Maia Kereselidze, Yousef~Saleh Khader, Shams Eldin
+  Ali~Hassan Khalifa, Ejaz~Ahmed Khan, Young-Ho Khang, Irma Khonelidze,
+  Yohannes Kinfu, Jonas~M Kinge, Luke Knibbs, Yoshihiro Kokubo, S~Kosen,
+  Barthelemy~Kuate Defo, Veena~S Kulkarni, Chanda Kulkarni, Kaushalendra Kumar,
+  Ravi~B Kumar, G~Anil Kumar, Gene~F Kwan, Taavi Lai, Arjun~Lakshmana Balaji,
+  Hilton Lam, Qing Lan, Van~C Lansingh, Heidi~J Larson, Anders Larsson,
+  Jong-Tae Lee, James Leigh, Mall Leinsalu, Ricky Leung, Yichong Li, Yongmei
+  Li, Gra{\c c}a Maria~Ferreira De~Lima, Hsien-Ho Lin, Steven~E Lipshultz,
+  Shiwei Liu, Yang Liu, Belinda~K Lloyd, Paulo~A Lotufo, Vasco Manuel~Pedro
+  Machado, Jennifer~H Maclachlan, Carlos Magis-Rodriguez, Marek Majdan,
+  Christopher~Chabila Mapoma, Wagner Marcenes, Melvin~Barrientos Marzan,
+  Joseph~R Masci, Mohammad~Taufiq Mashal, Amanda~J Mason-Jones, Bongani~M
+  Mayosi, Tasara~T Mazorodze, Abigail~Cecilia Mckay, Peter~A Meaney, Man~Mohan
+  Mehndiratta, Fabiola Mejia-Rodriguez, Yohannes~Adama Melaku, Ziad~A Memish,
+  Walter Mendoza, Ted~R Miller, Edward~J Mills, Karzan~Abdulmuhsin Mohammad,
+  Ali~H Mokdad, Glen~Liddell Mola, Lorenzo Monasta, Marcella Montico, Ami~R
+  Moore, Rintaro Mori, Wilkister~Nyaora Moturi, Mitsuru Mukaigawara, Kinnari~S
+  Murthy, Aliya Naheed, Kovin~S Naidoo, Luigi Naldi, Vinay Nangia, K~M~Venkat
+  Narayan, Denis Nash, Chakib Nejjari, Robert~G Nelson, Sudan~Prasad Neupane,
+  Charles~R Newton, Marie Ng, Muhammad~Imran Nisar, Sandra Nolte, Ole~F
+  Norheim, Vincent Nowaseb, Luke Nyakarahuka, In-Hwan Oh, Takayoshi Ohkubo,
+  Bolajoko~O Olusanya, Saad~B Omer, John~Nelson Opio, Orish~Ebere Orisakwe,
+  Jeyaraj~D Pandian, Christina Papachristou, Angel J~Paternina Caicedo, Scott~B
+  Patten, Vinod~K Paul, Boris~Igor Pavlin, Neil Pearce, David~M Pereira, Aslam
+  Pervaiz, Konrad Pesudovs, Max Petzold, Farshad Pourmalek, Dima Qato, Amado~D
+  Quezada, D~Alex Quistberg, Anwar Rafay, Kazem Rahimi, Vafa Rahimi-Movaghar,
+  Sajjad~Ur Rahman, Murugesan Raju, Saleem~M Rana, Homie.
+\newblock Global, regional, and national incidence and mortality for {{HIV}},
+  tuberculosis, and malaria during 1990\textendash{}2013: A systematic analysis
+  for the {{Global Burden}} of {{Disease Study}} 2013.
+\newblock \emph{The Lancet}, 384\penalty0 (9947):\penalty0 1005--1070,
+  September 2014.
+\newblock ISSN 01406736.
+\newblock \doi{10.1016/S0140-6736(14)60844-8}.
+\newblock 00405.
+
+\bibitem[Stoops(2008)]{stoops_presidents_2008}
+Craig Stoops.
+\newblock President's {{Malaria Initiative}}.
+\newblock Technical report, DTIC Document, 2008.
+\newblock 00000.
+
+\bibitem[{Global Fund}(2011)]{global_fund_making_2011}
+{Global Fund}.
+\newblock Making a difference: {{Global}} fund results report 2011.
+\newblock \emph{The Global Fund, Geneva}, 2011.
+\newblock 00005.
+
+\bibitem[{World Health
+  Organization}(2012)]{world_health_organization_world_2012}
+{World Health Organization}.
+\newblock World malaria report 2010.
+\newblock \emph{Geneva: World Health Organization View Article Google Scholar},
+  2012.
+\newblock 00161.
+
+\bibitem[Barat(2006)]{barat_four_2006}
+Lawrence~M Barat.
+\newblock Four malaria success stories: How malaria burden was successfully
+  reduced in {{Brazil}}, {{Eritrea}}, {{India}}, and {{Vietnam}}.
+\newblock \emph{The American journal of tropical medicine and hygiene},
+  74\penalty0 (1):\penalty0 12--16, 2006.
+\newblock ISSN 0002-9637.
+\newblock 00117.
+
+\bibitem[Akogb{\'e}to et~al.(2015)Akogb{\'e}to, A{\"\i}kpon, Azond{\'e}kon,
+  Padonou, Oss{\`e}, Agossa, Beach, and S{\`e}zonlin]{akogbeto_six_2015}
+Martin~C. Akogb{\'e}to, Rock~Y. A{\"\i}kpon, Roseric Azond{\'e}kon, Gil~G.
+  Padonou, Razaki~A. Oss{\`e}, Fiacre~R. Agossa, Raymond Beach, and Michel
+  S{\`e}zonlin.
+\newblock Six years of experience in entomological surveillance of indoor
+  residual spraying against malaria transmission in {{Benin}}: Lessons learned,
+  challenges and outlooks.
+\newblock \emph{Malaria Journal}, 14\penalty0 (1), December 2015.
+\newblock ISSN 1475-2875.
+\newblock \doi{10.1186/s12936-015-0757-5}.
+\newblock 00002.
+
+\bibitem[{Joint United Nations Programme on
+  HIV/AIDS}(2010{\natexlab{a}})]{joint_united_nations_programme_on_hiv/aids_getting_2010}
+{Joint United Nations Programme on HIV/AIDS}.
+\newblock Getting to {{Zero}}: 2011\textendash{}2015 strategy.
+\newblock 2010{\natexlab{a}}.
+\newblock 00035.
+
+\bibitem[{Joint United Nations Programme on
+  HIV/AIDS}(2010{\natexlab{b}})]{joint_united_nations_programme_on_hiv/aids_global_2010}
+{Joint United Nations Programme on HIV/AIDS}.
+\newblock \emph{Global Report: {{UNAIDS}} Report on the Global {{AIDS}}
+  Epidemic 2010}.
+\newblock {UNAIDS}, 2010{\natexlab{b}}.
+\newblock ISBN 92-9173-871-9.
+\newblock 01036.
+
+\bibitem[{World Health
+  Organization}(2010{\natexlab{a}})]{world_health_organization_global_2010}
+{World Health Organization}.
+\newblock \emph{Global Tuberculosis Control: {{WHO}} Report 2010}.
+\newblock {World Health Organization}, 2010{\natexlab{a}}.
+\newblock ISBN 92-4-156406-7.
+\newblock 00010.
+
+\bibitem[Jamison(2006)]{jamison_disease_2006}
+Dean~T Jamison.
+\newblock \emph{Disease and Mortality in Sub-{{Saharan Africa}}}.
+\newblock {World Bank Publications}, 2006.
+\newblock ISBN 0-8213-6398-0.
+\newblock 00259.
+
+\bibitem[Long and Zavala(2016)]{long_malaria_2016}
+Carole~A Long and Fidel Zavala.
+\newblock Malaria vaccines and human immune responses.
+\newblock \emph{Current Opinion in Microbiology}, 32:\penalty0 96--102, August
+  2016.
+\newblock ISSN 13695274.
+\newblock \doi{10.1016/j.mib.2016.04.006}.
+\newblock 00003.
+
+\bibitem[Titti et~al.(2007)Titti, Cafaro, Ferrantelli, Tripiciano, Moretti,
+  Caputo, Gavioli, Ensoli, Robert-Guroff, Barnett, and
+  Ensoli]{titti_problems_2007}
+Fausto Titti, Aurelio Cafaro, Flavia Ferrantelli, Antonella Tripiciano, Sonia
+  Moretti, Antonella Caputo, Riccardo Gavioli, Fabrizio Ensoli, Marjorie
+  Robert-Guroff, Susan Barnett, and Barbara Ensoli.
+\newblock Problems and emerging approaches in {{HIV}}/{{AIDS}} vaccine
+  development.
+\newblock \emph{Expert Opinion on Emerging Drugs}, 12\penalty0 (1):\penalty0
+  23--48, March 2007.
+\newblock ISSN 1472-8214, 1744-7623.
+\newblock \doi{10.1517/14728214.12.1.23}.
+\newblock 00036.
+
+\bibitem[Walker and Burton(2008)]{walker_toward_2008}
+B.~D. Walker and D.~R. Burton.
+\newblock Toward an {{AIDS Vaccine}}.
+\newblock \emph{Science}, 320\penalty0 (5877):\penalty0 760--764, May 2008.
+\newblock ISSN 0036-8075, 1095-9203.
+\newblock \doi{10.1126/science.1152622}.
+\newblock 00407.
+
+\bibitem[Newman(2001{\natexlab{a}})]{newman_structure_2001}
+M.~E.~J. Newman.
+\newblock The structure of scientific collaboration networks.
+\newblock \emph{Proceedings of the National Academy of Sciences}, 98\penalty0
+  (2):\penalty0 404--409, January 2001{\natexlab{a}}.
+\newblock ISSN 0027-8424, 1091-6490.
+\newblock \doi{10.1073/pnas.98.2.404}.
+\newblock 04061.
+
+\bibitem[Corbett et~al.(2003)Corbett, Watt, Walker, Maher, Williams,
+  Raviglione, and Dye]{corbett_growing_2003}
+Elizabeth~L. Corbett, Catherine~J. Watt, Neff Walker, Dermot Maher, Brian~G.
+  Williams, Mario~C. Raviglione, and Christopher Dye.
+\newblock The {{Growing Burden}} of {{Tuberculosis}}: {{Global Trends}} and
+  {{Interactions With}} the {{HIV Epidemic}}.
+\newblock \emph{Archives of Internal Medicine}, 163\penalty0 (9):\penalty0
+  1009, May 2003.
+\newblock ISSN 0003-9926.
+\newblock \doi{10.1001/archinte.163.9.1009}.
+\newblock 02947.
+
+\bibitem[Gandhi et~al.(2010)Gandhi, Shah, Andrews, Vella, Moll, Scott,
+  Weissman, Marra, Lalloo, and Friedland]{gandhi_hiv_2010}
+Neel~R. Gandhi, N.~Sarita Shah, Jason~R. Andrews, Venanzio Vella, Anthony~P.
+  Moll, Michelle Scott, Darren Weissman, Claudio Marra, Umesh~G. Lalloo, and
+  Gerald~H. Friedland.
+\newblock {{HIV Coinfection}} in {{Multidrug}}- and {{Extensively
+  Drug}}-{{Resistant Tuberculosis Results}} in {{High Early Mortality}}.
+\newblock \emph{American Journal of Respiratory and Critical Care Medicine},
+  181\penalty0 (1):\penalty0 80--86, January 2010.
+\newblock ISSN 1073-449X, 1535-4970.
+\newblock \doi{10.1164/rccm.200907-0989OC}.
+\newblock 00248.
+
+\bibitem[{World Health
+  Organization}(2000)]{world_health_organization_economic_2000}
+{World Health Organization}.
+\newblock Economic costs of malaria are many times higher than previously
+  estimated.
+\newblock In \emph{Economic Costs of Malaria Are Many Times Higher than
+  Previously Estimated}. 2000.
+\newblock 00012.
+
+\bibitem[Richter et~al.(2014)Richter, L{\"o}nnroth, Desmond, Jackson,
+  Jaramillo, and Weil]{richter_economic_2014}
+Linda~M. Richter, Knut L{\"o}nnroth, Chris Desmond, Robin Jackson, Ernesto
+  Jaramillo, and Diana Weil.
+\newblock Economic {{Support}} to {{Patients}} in {{HIV}} and {{TB Grants}} in
+  {{Rounds}} 7 and 10 from the {{Global Fund}} to {{Fight AIDS}},
+  {{Tuberculosis}} and {{Malaria}}.
+\newblock \emph{PLoS ONE}, 9\penalty0 (1):\penalty0 e86225, January 2014.
+\newblock ISSN 1932-6203.
+\newblock \doi{10.1371/journal.pone.0086225}.
+\newblock 00015.
+
+\bibitem[Akukwe(2006)]{akukwe_dont_2006}
+Chinua Akukwe.
+\newblock \emph{Don't {{Let Them Die}}: {{HIV}}/{{AIDS}}, {{Malaria}},
+  {{Tuberculosis}} and the {{Healthcare Crisis}} in {{Africa}}}.
+\newblock {Adonis \& Abbey Pub Limited}, 2006.
+\newblock ISBN 1-905068-24-7.
+\newblock 00005.
+
+\bibitem[Mbulaiteye et~al.(2011)Mbulaiteye, Bhatia, Adebamowo, and
+  Sasco]{mbulaiteye_hiv_2011}
+Sam~M Mbulaiteye, Kishor Bhatia, Clement Adebamowo, and Annie~J Sasco.
+\newblock {{HIV}} and cancer in {{Africa}}: Mutual collaboration between
+  {{HIV}} and cancer programs may provide timely research and public health
+  data.
+\newblock \emph{Infectious Agents and Cancer}, 6\penalty0 (1):\penalty0 16,
+  2011.
+\newblock ISSN 1750-9378.
+\newblock \doi{10.1186/1750-9378-6-16}.
+\newblock 00038.
+
+\bibitem[D'Alessandro et~al.(1995)D'Alessandro, Olaleye, McGuire, Thomson,
+  Langerock, Bennett, and Greenwood]{dalessandro_comparison_1995}
+U.~D'Alessandro, B.O. Olaleye, W.~McGuire, M.C. Thomson, P.~Langerock,
+  S.~Bennett, and B.M. Greenwood.
+\newblock A comparison of the efficacy of insecticide-treated and untreated bed
+  nets in preventing malaria in {{Gambian}} children.
+\newblock \emph{Transactions of the Royal Society of Tropical Medicine and
+  Hygiene}, 89\penalty0 (6):\penalty0 596--598, November 1995.
+\newblock ISSN 00359203.
+\newblock \doi{10.1016/0035-9203(95)90401-8}.
+
+\bibitem[{Joint United Nations Programme on HIV/AIDS} and {World Health
+  Organization}(2007)]{joint_united_nations_programme_on_hiv/aids_aids_2007}
+{Joint United Nations Programme on HIV/AIDS} and {World Health Organization}.
+\newblock \emph{{{AIDS}} Epidemic Update, {{December}} 2006}.
+\newblock {World Health Organization}, 2007.
+\newblock ISBN 92-9173-542-6.
+\newblock 00519.
+
+\bibitem[Whiteside(2008)]{whiteside_hiv/aids:_2008}
+Alan Whiteside.
+\newblock \emph{{{HIV}}/{{AIDS}}: A Very Short Introduction}, volume 174.
+\newblock {Oxford University Press}, 2008.
+\newblock ISBN 0-19-280692-0.
+\newblock 00119.
+
+\bibitem[{Centers for Disease Control and
+  Prevention}(2007)]{centers_for_disease_control_and_prevention_revised_2007}
+{Centers for Disease Control and Prevention}.
+\newblock Revised recommendations for {{HIV}} testing of adults, adolescents,
+  and pregnant women in health-care settings.
+\newblock \emph{Annals of Emergency Medicine}, 49\penalty0 (5):\penalty0
+  575--577, 2007.
+\newblock ISSN 0196-0644.
+\newblock 08464.
+
+\bibitem[Brenner and Wainberg(2016)]{brenner_we_2016}
+Bluma Brenner and Mark~A. Wainberg.
+\newblock We need to use the best antiretroviral drugs worldwide to prevent
+  {{HIV}} drug resistance:.
+\newblock \emph{AIDS}, 30\penalty0 (17):\penalty0 2725--2727, November 2016.
+\newblock ISSN 0269-9370.
+\newblock \doi{10.1097/QAD.0000000000001234}.
+\newblock 00000.
+
+\bibitem[Calmy et~al.(2004)Calmy, Pascual, and Ford]{calmy_hiv_2004}
+Alexandra Calmy, Fernando Pascual, and Nathan Ford.
+\newblock {{HIV}} drug resistance.
+\newblock \emph{New England Journal of Medicine}, 350\penalty0 (26):\penalty0
+  2720--2721, 2004.
+\newblock ISSN 0028-4793.
+\newblock 00038.
+
+\bibitem[Clavel and Hance(2004)]{clavel_hiv_2004}
+Fran{\c c}ois Clavel and Allan~J Hance.
+\newblock {{HIV}} drug resistance.
+\newblock \emph{New England Journal of Medicine}, 350\penalty0 (10):\penalty0
+  1023--1035, 2004.
+\newblock ISSN 0028-4793.
+\newblock 00817.
+
+\bibitem[Kaufmann and {van Helden}(2008)]{kaufmann_handbook_2008}
+Stefan~HE Kaufmann and Paul {van Helden}.
+\newblock \emph{Handbook of Tuberculosis: Clinics, Diagnostics, Therapy and
+  Epidemiology}.
+\newblock {Wiley-VCH}, 2008.
+\newblock ISBN 3-527-31888-7.
+\newblock 00010.
+
+\bibitem[Zumla(2009)]{zumla_handbook_2009}
+Alimuddin Zumla.
+\newblock Handbook of tuberculosis.
+\newblock \emph{The Lancet Infectious Diseases}, 9\penalty0 (12):\penalty0 736,
+  2009.
+\newblock ISSN 1473-3099.
+\newblock 00000.
+
+\bibitem[Raviglione et~al.(1997)Raviglione, Harries, Msiska, Wilkinson, and
+  Nunn]{raviglione_tuberculosis_1997}
+MC~Raviglione, AD~Harries, R~Msiska, David Wilkinson, and P~Nunn.
+\newblock Tuberculosis and {{HIV}}: Current status in {{Africa}}.
+\newblock \emph{AIDS (London, England)}, 11:\penalty0 S115, 1997.
+\newblock ISSN 0269-9370.
+\newblock 00252.
+
+\bibitem[Sharma et~al.(2005)Sharma, Mohan, and Kadhiravan]{sharma_hiv-tb_2005}
+SK~Sharma, Alladi Mohan, and Tamilarasu Kadhiravan.
+\newblock {{HIV}}-{{TB}} co-infection: Epidemiology, diagnosis \& management.
+\newblock \emph{Indian Journal of Medical Research}, 121\penalty0 (4):\penalty0
+  550--567, 2005.
+\newblock ISSN 0971-5916.
+
+\bibitem[Toossi et~al.(2001)Toossi, Mayanja-Kizza, Hirsch, Edmonds, Spahlinger,
+  Hom, Aung, Mugyenyi, Ellner, and Whalen]{toossi_impact_2001}
+Z~Toossi, Hirsch Mayanja-Kizza, CS~Hirsch, KL~Edmonds, T~Spahlinger, DL~Hom,
+  H~Aung, P~Mugyenyi, JJ~Ellner, and CW~Whalen.
+\newblock Impact of tuberculosis ({{TB}}) on {{HIV}}-1 activity in dually
+  infected patients.
+\newblock \emph{Clinical \& Experimental Immunology}, 123\penalty0
+  (2):\penalty0 233--238, 2001.
+\newblock ISSN 1365-2249.
+\newblock 00175.
+
+\bibitem[D'Anibrosio et~al.(2014)D'Anibrosio, Spanevello, and
+  Centis]{danibrosio_epidemiology_2014}
+Lia D'Anibrosio, Antonio Spanevello, and Rosella Centis.
+\newblock Epidemiology of {{TB}}.
+\newblock \emph{Tuberculosis}, 58:\penalty0 14, 2014.
+\newblock ISSN 1849840288.
+\newblock 00000.
+
+\bibitem[{Centers for Disease Control and Prevention
+  (CDC)}(2006)]{centers_for_disease_control_and_prevention_cdc_emergence_2006}
+{Centers for Disease Control and Prevention (CDC)}.
+\newblock Emergence of {{Mycobacterium}} tuberculosis with extensive resistance
+  to second-line drugs--worldwide, 2000-2004.
+\newblock \emph{MMWR. Morbidity and mortality weekly report}, 55\penalty0
+  (11):\penalty0 301, 2006.
+\newblock ISSN 1545-861X.
+\newblock 00651.
+
+\bibitem[{World Health
+  Organization}(2010{\natexlab{b}})]{world_health_organization_multidrug_2010}
+{World Health Organization}.
+\newblock Multidrug and extensively drug-resistant {{TB}}.
+\newblock 2010{\natexlab{b}}.
+\newblock 00915.
+
+\bibitem[Cowie(1994)]{cowie_epidemiology_1994}
+Robert~L Cowie.
+\newblock The epidemiology of tuberculosis in gold miners with silicosis.
+\newblock \emph{American journal of respiratory and critical care medicine},
+  150\penalty0 (5):\penalty0 1460--1462, 1994.
+\newblock ISSN 1073-449X.
+\newblock 00176.
+
+\bibitem[Mulenga et~al.(2013)Mulenga, Miller, Sinkala, Hysong, and
+  Burgess]{mulenga_silicosis_2013}
+Emmanuel~M Mulenga, Hugh~B Miller, Thomson Sinkala, Tracy~A Hysong, and
+  Jefferey~L Burgess.
+\newblock Silicosis and tuberculosis in {{Zambian}} miners.
+\newblock \emph{International journal of occupational and environmental
+  health}, 2013.
+\newblock 00014.
+
+\bibitem[Rees and Murray(2007)]{rees_silica_2007}
+D~Rees and J~Murray.
+\newblock Silica, silicosis and tuberculosis [{{State}} of the {{Art Series}}.
+  {{Occupational}} lung disease in high-and low-income countries, {{Edited}} by
+  {{M}}. {{Chan}}-{{Yeung}}. {{Number}} 4 in the series].
+\newblock \emph{The International Journal of Tuberculosis and Lung Disease},
+  11\penalty0 (5):\penalty0 474--484, 2007.
+\newblock ISSN 1027-3719.
+\newblock 00132.
+
+\bibitem[Sinka et~al.(2012)Sinka, Bangs, Manguin, Rubio-Palis,
+  Chareonviriyaphap, Coetzee, Mbogo, Hemingway, Patil, and
+  Temperley]{sinka_global_2012}
+Marianne~E Sinka, Michael~J Bangs, Sylvie Manguin, Yasmin Rubio-Palis,
+  Theeraphap Chareonviriyaphap, Maureen Coetzee, Charles~M Mbogo, Janet
+  Hemingway, Anand~P Patil, and William~H Temperley.
+\newblock A global map of dominant malaria vectors.
+\newblock \emph{Parasites \& vectors}, 5\penalty0 (1):\penalty0 1, 2012.
+\newblock ISSN 1756-3305.
+\newblock 00189.
+
+\bibitem[Snow et~al.(2005)Snow, Guerra, Noor, Myint, and Hay]{snow_global_2005}
+Robert~W. Snow, Carlos~A. Guerra, Abdisalan~M. Noor, Hla~Y. Myint, and Simon~I.
+  Hay.
+\newblock The global distribution of clinical episodes of {{Plasmodium}}
+  falciparum malaria.
+\newblock \emph{Nature}, 434\penalty0 (7030):\penalty0 214--217, March 2005.
+\newblock ISSN 0028-0836, 1476-4679.
+\newblock \doi{10.1038/nature03342}.
+\newblock 02814.
+
+\bibitem[James and Tate(1937)]{james_new_1937}
+S.~P. James and P.~Tate.
+\newblock New {{Knowledge}} of the {{Life}}-{{Cycle}} of {{Malaria Parasites}}.
+\newblock \emph{Nature}, 139\penalty0 (3517):\penalty0 545--545, March 1937.
+\newblock ISSN 0028-0836.
+\newblock \doi{10.1038/139545a0}.
+\newblock 00080.
+
+\bibitem[Alonso et~al.(1993)Alonso, Lindsay, Schellenberg, Keita, Gomez,
+  Shenton, Hill, David, Fegan, Cham, and Greenwood]{alonso_malaria_1993}
+P.L. Alonso, S.W. Lindsay, J.R.M.Armstrong Schellenberg, K.~Keita, P.~Gomez,
+  F.C. Shenton, A.G. Hill, P.H. David, G.~Fegan, K.~Cham, and B.M. Greenwood.
+\newblock A malaria control trial using insecticide-treated bed nets and
+  targeted chemoprophylaxis in a rural area of {{The Gambia}}, {{West Africa}}.
+\newblock \emph{Transactions of the Royal Society of Tropical Medicine and
+  Hygiene}, 87:\penalty0 37--44, June 1993.
+\newblock ISSN 00359203.
+\newblock \doi{10.1016/0035-9203(93)90174-O}.
+
+\bibitem[Battle et~al.(2016)Battle, Bisanzio, Gibson, Bhatt, Cameron, Weiss,
+  Mappin, Dalrymple, Howes, Hay, and Gething]{battle_treatment-seeking_2016}
+Katherine~E. Battle, Donal Bisanzio, Harry~S. Gibson, Samir Bhatt, Ewan
+  Cameron, Daniel~J. Weiss, Bonnie Mappin, Ursula Dalrymple, Rosalind~E. Howes,
+  Simon~I. Hay, and Peter~W. Gething.
+\newblock Treatment-seeking rates in malaria endemic countries.
+\newblock \emph{Malaria Journal}, 15\penalty0 (1), December 2016.
+\newblock ISSN 1475-2875.
+\newblock \doi{10.1186/s12936-015-1048-x}.
+
+\bibitem[Leydesdorff and Milojevi{\'c}(2012)]{leydesdorff_scientometrics_2012}
+Loet Leydesdorff and Sta{\v s}a Milojevi{\'c}.
+\newblock Scientometrics.
+\newblock \emph{arXiv preprint arXiv:1208.4566}, 2012.
+\newblock 00467.
+
+\bibitem[Eugene(1979)]{eugene_citation_1979}
+Garfield Eugene.
+\newblock Citation {{Indexing}}, {{Its Theory}} and {{Application}} in
+  {{Science}}, {{Technology}}, and {{Humanities}}.
+\newblock 1979.
+
+\bibitem[Luukkonen et~al.(1992)Luukkonen, Persson, and
+  Sivertsen]{luukkonen_understanding_1992}
+Terttu Luukkonen, Olle Persson, and Gunnar Sivertsen.
+\newblock Understanding patterns of international scientific collaboration.
+\newblock \emph{Science, Technology \& Human Values}, 17\penalty0 (1):\penalty0
+  101--126, 1992.
+\newblock ISSN 0162-2439.
+\newblock 00457.
+
+\bibitem[Wagner(2005)]{wagner_six_2005}
+Caroline~S. Wagner.
+\newblock Six case studies of international collaboration in science.
+\newblock \emph{Scientometrics}, 62\penalty0 (1):\penalty0 3--26, January 2005.
+\newblock ISSN 0138-9130, 1588-2861.
+\newblock \doi{10.1007/s11192-005-0001-0}.
+\newblock 00193.
+
+\bibitem[Gl{\"a}nzel and Schubert(2004)]{glanzel_analysing_2004}
+Wolfgang Gl{\"a}nzel and Andr{\'a}s Schubert.
+\newblock Analysing scientific networks through co-authorship.
+\newblock In \emph{Handbook of Quantitative Science and Technology Research},
+  pages 257--276. {Springer}, 2004.
+\newblock 00493.
+
+\bibitem[Newman(2004)]{newman_coauthorship_2004}
+M.~E.~J. Newman.
+\newblock Coauthorship networks and patterns of scientific collaboration.
+\newblock \emph{Proceedings of the National Academy of Sciences}, 101\penalty0
+  (Supplement 1):\penalty0 5200--5205, April 2004.
+\newblock ISSN 0027-8424, 1091-6490.
+\newblock \doi{10.1073/pnas.0307545100}.
+\newblock 01352.
+
+\bibitem[Gonz{\'a}lez-Alcaide et~al.(2012)Gonz{\'a}lez-Alcaide, Park,
+  Huaman{\'\i}, Gasc{\'o}n, and Ramos]{gonzalez-alcaide_scientific_2012}
+Gregorio Gonz{\'a}lez-Alcaide, Jinseo Park, Charles Huaman{\'\i}, Joaqu{\'\i}n
+  Gasc{\'o}n, and Jos{\'e}~Manuel Ramos.
+\newblock Scientific authorships and collaboration network analysis on
+  {{Chagas}} disease: Papers indexed in {{PubMed}} (1940-2009).
+\newblock \emph{Revista do Instituto de Medicina Tropical de S{\~a}o Paulo},
+  54\penalty0 (4):\penalty0 219--228, 2012.
+\newblock ISSN 0036-4665.
+\newblock 00028.
+
+\bibitem[Newman(2001{\natexlab{b}})]{newman_scientific_2001}
+M.~E.~J. Newman.
+\newblock Scientific collaboration networks. {{I}}. {{Network}} construction
+  and fundamental results.
+\newblock \emph{Physical Review E}, 64\penalty0 (1), June 2001{\natexlab{b}}.
+\newblock ISSN 1063-651X, 1095-3787.
+\newblock \doi{10.1103/PhysRevE.64.016131}.
+
+\bibitem[Newman(2001{\natexlab{c}})]{newman_scientific_2001-1}
+M.~E.~J. Newman.
+\newblock Scientific collaboration networks. {{II}}. {{Shortest}} paths,
+  weighted networks, and centrality.
+\newblock \emph{Physical Review E}, 64\penalty0 (1), June 2001{\natexlab{c}}.
+\newblock ISSN 1063-651X, 1095-3787.
+\newblock \doi{10.1103/PhysRevE.64.016132}.
+\newblock 02213.
+
+\bibitem[B{\"o}rner et~al.(2003)B{\"o}rner, Chen, and
+  Boyack]{borner_visualizing_2003}
+Katy B{\"o}rner, Chaomei Chen, and Kevin~W. Boyack.
+\newblock Visualizing knowledge domains.
+\newblock \emph{Annual Review of Information Science and Technology},
+  37\penalty0 (1):\penalty0 179--255, January 2003.
+\newblock ISSN 1550-8382.
+\newblock \doi{10.1002/aris.1440370106}.
+\newblock 00981.
+
+\bibitem[Scharnhorst et~al.(2012)Scharnhorst, B{\"o}rner, and van~den
+  Besselaar]{scharnhorst_models_2012}
+Andrea Scharnhorst, Katy B{\"o}rner, and Peter van~den Besselaar, editors.
+\newblock \emph{Models of Science Dynamics: Encounters between Complexity
+  Theory and Information Sciences}.
+\newblock Understanding complex systems. {Springer}, Heidelberg ; New York,
+  2012.
+\newblock ISBN 978-3-642-23067-7.
+\newblock 00050.
+
+\bibitem[Mali et~al.(2012)Mali, Kronegger, Doreian, and
+  Ferligoj]{mali_dynamic_2012}
+F.~Mali, L.~Kronegger, P.~Doreian, and A.~Ferligoj.
+\newblock \emph{Dynamic Scientific Co-Authorship Networks}.
+\newblock Understanding Complex Systems. 2012.
+\newblock 00050.
+
+\bibitem[Andrade et~al.(2009)Andrade, {de los Reyes L{\'o}pez}, and
+  Mart{\'\i}n]{andrade_dimensions_2009}
+Helga~Bermeo Andrade, Ernesto {de los Reyes L{\'o}pez}, and Tomas~Bonavia
+  Mart{\'\i}n.
+\newblock Dimensions of scientific collaboration and its contribution to the
+  academic research groups' scientific quality.
+\newblock \emph{Research Evaluation}, 18\penalty0 (4):\penalty0 301--311,
+  October 2009.
+\newblock ISSN 09582029, 14715449.
+\newblock \doi{10.3152/095820209X451041}.
+\newblock 00038.
+
+\bibitem[Rogers et~al.(2001)Rogers, Bozeman, and
+  Chompalov]{rogers_obstacles_2001}
+Juan~D Rogers, Barry Bozeman, and Ivan Chompalov.
+\newblock Obstacles and opportunities in the application of network analysis to
+  the evaluation of {{R}}\&amp;{{D}}.
+\newblock \emph{Research Evaluation}, 10\penalty0 (3):\penalty0 161--172,
+  December 2001.
+\newblock ISSN 09582029, 14715449.
+\newblock \doi{10.3152/147154401781777033}.
+\newblock 00000.
+
+\bibitem[Sonnenwald(2007)]{sonnenwald_scientific_2007}
+Diane~H. Sonnenwald.
+\newblock Scientific collaboration.
+\newblock \emph{Annual Review of Information Science and Technology},
+  41\penalty0 (1):\penalty0 643--681, 2007.
+\newblock ISSN 00664200.
+\newblock \doi{10.1002/aris.2007.1440410121}.
+\newblock 00418.
+
+\bibitem[Hou et~al.(2008)Hou, Kretschmer, and Liu]{hou_structure_2008}
+Haiyan Hou, Hildrun Kretschmer, and Zeyuan Liu.
+\newblock The structure of scientific collaboration networks in
+  {{Scientometrics}}.
+\newblock \emph{Scientometrics}, 75\penalty0 (2):\penalty0 189--202, May 2008.
+\newblock ISSN 0138-9130, 1588-2861.
+\newblock \doi{10.1007/s11192-007-1771-3}.
+\newblock 00186.
+
+\bibitem[Gonz{\'a}lez-Alcaide et~al.(2008)Gonz{\'a}lez-Alcaide,
+  Aleixandre-Benavent, Navarro-Molina, and
+  Valderrama-Zuri{\'a}n]{gonzalez-alcaide_coauthorship_2008}
+Gregorio Gonz{\'a}lez-Alcaide, Rafael Aleixandre-Benavent, Carolina
+  Navarro-Molina, and Juan~Carlos Valderrama-Zuri{\'a}n.
+\newblock Coauthorship networks and institutional collaboration patterns in
+  reproductive biology.
+\newblock \emph{Fertility and Sterility}, 90\penalty0 (4):\penalty0 941--956,
+  October 2008.
+\newblock ISSN 00150282.
+\newblock \doi{10.1016/j.fertnstert.2007.07.1378}.
+\newblock 00035.
+
+\bibitem[Toivanen and Ponomariov(2011)]{toivanen_african_2011}
+Hannes Toivanen and Branco Ponomariov.
+\newblock African regional innovation systems: Bibliometric analysis of
+  research collaboration patterns 2005\textendash{}2009.
+\newblock \emph{Scientometrics}, 88\penalty0 (2):\penalty0 471--493, August
+  2011.
+\newblock ISSN 0138-9130, 1588-2861.
+\newblock \doi{10.1007/s11192-011-0390-1}.
+\newblock 00035.
+
+\bibitem[Bellanca(2009)]{bellanca_measuring_2009}
+L.~Bellanca.
+\newblock Measuring interdisciplinary research: Analysis of co-authorship for
+  research staff at the {{University}} of {{York}}.
+\newblock \emph{Bioscience Horizons}, 2\penalty0 (2):\penalty0 99--112, June
+  2009.
+\newblock ISSN 1754-7431.
+\newblock \doi{10.1093/biohorizons/hzp012}.
+
+\bibitem[Aleixandre-Benavent et~al.(2008)Aleixandre-Benavent,
+  Gonz{\'a}lez-Alcaide, Alonso-Arroyo, Bola{\~n}os-Pizarro,
+  Castell{\'o}-Cogollos, and
+  Valderrama-Zuri{\'a}n]{aleixandre-benavent_coauthorship_2008}
+R.~Aleixandre-Benavent, G.~Gonz{\'a}lez-Alcaide, A.~Alonso-Arroyo,
+  M.~Bola{\~n}os-Pizarro, L.~Castell{\'o}-Cogollos, and J.C.
+  Valderrama-Zuri{\'a}n.
+\newblock Coauthorship {{Networks}} and {{Institutional Collaboration}} in
+  {{Farmacia Hospitalaria}}.
+\newblock \emph{Farmacia Hospitalaria (English Edition)}, 32\penalty0
+  (4):\penalty0 226--233, January 2008.
+\newblock ISSN 21735085.
+\newblock \doi{10.1016/S2173-5085(08)70044-3}.
+\newblock 00003.
+
+\bibitem[Ghafouri et~al.(2014)Ghafouri, Mohammadhassanzadeh, Shokraneh,
+  Vakilian, and Farahmand]{ghafouri_social_2014}
+H.B. Ghafouri, H.~Mohammadhassanzadeh, F.~Shokraneh, M.~Vakilian, and
+  S.~Farahmand.
+\newblock Social network analysis of {{Iranian}} researchers on emergency
+  medicine: {{A}} sociogram analysis.
+\newblock \emph{Emergency Medicine Journal}, 31\penalty0 (8):\penalty0
+  619--624, 2014.
+\newblock \doi{10.1136/emermed-2012-201781}.
+\newblock 00008.
+
+\bibitem[Salamati and Soheili(2016)]{salamati_social_2016}
+P.~Salamati and F.~Soheili.
+\newblock Social network analysis of {{Iranian}} researchers in the field of
+  violence.
+\newblock \emph{Chinese Journal of Traumatology - English Edition}, 19\penalty0
+  (5):\penalty0 264--270, 2016.
+\newblock \doi{10.1016/j.cjtee.2016.06.008}.
+\newblock 00000.
+
+\bibitem[Sadoughi et~al.(2016)Sadoughi, Valinejadi, Serati~Shirazi, and
+  Khademi]{sadoughi_social_2016}
+F.~Sadoughi, A.~Valinejadi, M.~Serati~Shirazi, and R.~Khademi.
+\newblock Social network analysis of {{Iranian}} researchers on medical
+  parasitology: {{A}} 41 year co-authorship survey.
+\newblock \emph{Iranian Journal of Parasitology}, 11\penalty0 (2):\penalty0
+  204--212, 2016.
+\newblock 00001.
+
+\bibitem[Morel et~al.(2009)Morel, Serruya, Penna, and
+  Guimar{\~a}es]{morel_co-authorship_2009}
+Carlos~Medicis Morel, Suzanne~Jacob Serruya, Gerson~Oliveira Penna, and
+  Reinaldo Guimar{\~a}es.
+\newblock Co-authorship {{Network Analysis}}: {{A Powerful Tool}} for
+  {{Strategic Planning}} of {{Research}}, {{Development}} and {{Capacity
+  Building Programs}} on {{Neglected Diseases}}.
+\newblock \emph{PLoS Neglected Tropical Diseases}, 3\penalty0 (8):\penalty0
+  e501, August 2009.
+\newblock ISSN 1935-2735.
+\newblock \doi{10.1371/journal.pntd.0000501}.
+\newblock 00096.
+
+\bibitem[Zhang(2014)]{zhang_complex_2014}
+Qing Zhang.
+\newblock \emph{Complex {{Network Analysis}} for {{Scientific Collaboration
+  Prediction}} and {{Biological Hypothesis Generation}}}.
+\newblock PhD thesis, University of Wisconsin-Milwaukee, Milwaukee, WI, USA,
+  2014.
+\newblock 00000.
+
+\bibitem[Oliveira et~al.(2017)Oliveira, Cobre, and
+  Ferreira]{oliveira_bayesian_2017}
+Sandra~Cristina Oliveira, Juliana Cobre, and Taiane de~Paula Ferreira.
+\newblock A {{Bayesian}} approach for the reliability of scientific
+  co-authorship networks with emphasis on nodes.
+\newblock \emph{Social Networks}, 48:\penalty0 110--115, January 2017.
+\newblock ISSN 0378-8733.
+\newblock \doi{10.1016/j.socnet.2016.06.005}.
+\newblock 00000.
+
+\bibitem[Peirson et~al.(2016)Peirson, Baker, Subramanian, Singh, and
+  Yalugoti]{peirson_tethne_2016}
+Erick Peirson, Aaron Baker, Ramki Subramanian, Abhishek Singh, and Yogananda
+  Yalugoti.
+\newblock Tethne v0.8, 2016.
+
+\bibitem[Schult and Swart(2008)]{schult_exploring_2008}
+Daniel~A Schult and P~Swart.
+\newblock Exploring network structure, dynamics, and function using
+  {{NetworkX}}.
+\newblock volume 2008, pages 11--16, 2008.
+\newblock 01142.
+
+\bibitem[Ferreira et~al.(2012)Ferreira, Gon{\c c}alves, and
+  Laender]{ferreira_brief_2012}
+Anderson~A Ferreira, Marcos~Andr{\'e} Gon{\c c}alves, and Alberto~HF Laender.
+\newblock A brief survey of automatic methods for author name disambiguation.
+\newblock \emph{Acm Sigmod Record}, 41\penalty0 (2):\penalty0 15--26, 2012.
+\newblock ISSN 0163-5808.
+\newblock 00124.
+
+\bibitem[Giles et~al.(2005)Giles, Zha, and Han]{giles_name_2005}
+C~Lee Giles, Hongyuan Zha, and Hui Han.
+\newblock Name disambiguation in author citations using a k-way spectral
+  clustering method.
+\newblock pages 334--343. {IEEE}, 2005.
+\newblock ISBN 1-58113-876-8.
+\newblock 00277.
+
+\bibitem[Bilenko(2006)]{bilenko_learnable_2006}
+Mikhail~Yuryevich Bilenko.
+\newblock \emph{Learnable Similarity Functions and Their Application to Record
+  Linkage and Clustering}.
+\newblock PhD thesis, University of Texas at Austin, Austin, TX, USA, 2006.
+\newblock 00019.
+
+\bibitem[Freeman(1977)]{freeman_set_1977}
+Linton~C Freeman.
+\newblock A set of measures of centrality based on betweenness.
+\newblock \emph{Sociometry}, pages 35--41, 1977.
+\newblock ISSN 0038-0431.
+\newblock 05656.
+
+\bibitem[Bonacich(1972)]{bonacich_factoring_1972}
+Phillip Bonacich.
+\newblock Factoring and weighting approaches to status scores and clique
+  identification.
+\newblock \emph{Journal of Mathematical Sociology}, 2\penalty0 (1):\penalty0
+  113--120, 1972.
+\newblock ISSN 0022-250X.
+\newblock 01823.
+
+\bibitem[Katz(1953)]{katz_new_1953}
+Leo Katz.
+\newblock A new status index derived from sociometric analysis.
+\newblock \emph{Psychometrika}, 18\penalty0 (1):\penalty0 39--43, 1953.
+\newblock ISSN 0033-3123.
+\newblock 01961.
+
+\bibitem[Kolaczyk and Cs{\'a}rdi(2014)]{kolaczyk_statistical_2014}
+Eric~D Kolaczyk and G{\'a}bor Cs{\'a}rdi.
+\newblock \emph{Statistical Analysis of Network Data with {{R}}}, volume~65.
+\newblock {Springer}, 2014.
+\newblock 00792.
+
+\bibitem[Erd{\"o}s and R{\'e}nyi(1959)]{erdos_random_1959}
+Paul Erd{\"o}s and Alfr{\'e}d R{\'e}nyi.
+\newblock On random graphs, {{I}}.
+\newblock \emph{Publicationes Mathematicae (Debrecen)}, 6:\penalty0 290--297,
+  1959.
+\newblock 03506.
+
+\bibitem[Erdos and R{\'e}nyi(1960)]{erdos_evolution_1960}
+Paul Erdos and Alfr{\'e}d R{\'e}nyi.
+\newblock On the evolution of random graphs.
+\newblock \emph{Publ. Math. Inst. Hung. Acad. Sci}, 5\penalty0 (1):\penalty0
+  17--60, 1960.
+\newblock 03290.
+
+\bibitem[Erd{\H o}s and R{\'e}nyi(1964)]{erdos_strength_1964}
+Paul Erd{\H o}s and Alfr{\'e}d R{\'e}nyi.
+\newblock On the strength of connectedness of a random graph.
+\newblock \emph{Acta Mathematica Academiae Scientiarum Hungarica}, 12\penalty0
+  (1-2):\penalty0 261--267, 1964.
+\newblock ISSN 0001-5954.
+\newblock 00797.
+
+\bibitem[Gilbert(1959)]{gilbert_random_1959}
+Edgar~N Gilbert.
+\newblock Random graphs.
+\newblock \emph{The Annals of Mathematical Statistics}, 30\penalty0
+  (4):\penalty0 1141--1144, 1959.
+\newblock ISSN 0003-4851.
+\newblock 00932.
+
+\bibitem[Watts and Strogatz(1998)]{watts_collective_1998}
+Duncan~J Watts and Steven~H Strogatz.
+\newblock Collective dynamics of `small-world'networks.
+\newblock \emph{nature}, 393\penalty0 (6684):\penalty0 440--442, 1998.
+\newblock ISSN 0028-0836.
+\newblock 32864.
+
+\bibitem[Van~Noort et~al.(2004)Van~Noort, Snel, and
+  Huynen]{van_noort_yeast_2004}
+Vera Van~Noort, Berend Snel, and Martijn~A Huynen.
+\newblock The yeast coexpression network has a small-world, scale-free
+  architecture and can be explained by a simple model.
+\newblock \emph{EMBO reports}, 5\penalty0 (3):\penalty0 280--284, 2004.
+\newblock ISSN 1469-221X.
+\newblock 00213.
+
+\bibitem[Barab{\'a}si and Albert(1999)]{barabasi_emergence_1999}
+Albert-L{\'a}szl{\'o} Barab{\'a}si and R{\'e}ka Albert.
+\newblock Emergence of scaling in random networks.
+\newblock \emph{science}, 286\penalty0 (5439):\penalty0 509--512, 1999.
+\newblock ISSN 0036-8075.
+\newblock 27102.
+
+\bibitem[Albert et~al.(1999)Albert, Jeong, and
+  Barab{\'a}si]{albert_internet:_1999}
+R{\'e}ka Albert, Hawoong Jeong, and Albert-L{\'a}szl{\'o} Barab{\'a}si.
+\newblock Internet: {{Diameter}} of the world-wide web.
+\newblock \emph{nature}, 401\penalty0 (6749):\penalty0 130--131, 1999.
+\newblock ISSN 0028-0836.
+\newblock 05099.
+
+\bibitem[Jeong et~al.(2003)Jeong, N{\'e}da, and
+  Barab{\'a}si]{jeong_measuring_2003}
+Hawoong Jeong, Zoltan N{\'e}da, and Albert-L{\'a}szl{\'o} Barab{\'a}si.
+\newblock Measuring preferential attachment in evolving networks.
+\newblock \emph{EPL (Europhysics Letters)}, 61\penalty0 (4):\penalty0 567,
+  2003.
+\newblock ISSN 0295-5075.
+\newblock 00487.
+
+\bibitem[Lorrain and White(1971)]{lorrain_structural_1971}
+Fran{\c c}ois Lorrain and Harrison~C. White.
+\newblock Structural equivalence of individuals in social networks.
+\newblock \emph{The Journal of Mathematical Sociology}, 1\penalty0
+  (1):\penalty0 49--80, January 1971.
+\newblock ISSN 0022-250X, 1545-5874.
+\newblock \doi{10.1080/0022250X.1971.9989788}.
+
+\bibitem[Doreian et~al.(2004)Doreian, Batagelj, and
+  Ferligoj]{doreian_generalized_2004}
+Patrick Doreian, Vladimir Batagelj, and Anuska Ferligoj.
+\newblock \emph{Generalized {{Blockmodeling}}}.
+\newblock {Cambridge University Press}, Cambridge, 2004.
+\newblock ISBN 978-0-511-58417-6.
+\newblock \doi{10.1017/CBO9780511584176}.
+
+\bibitem[Robins et~al.(2007)Robins, Pattison, Kalish, and
+  Lusher]{robins_introduction_2007}
+Garry Robins, Pip Pattison, Yuval Kalish, and Dean Lusher.
+\newblock An introduction to exponential random graph (p*) models for social
+  networks.
+\newblock \emph{Social networks}, 29\penalty0 (2):\penalty0 173--191, 2007.
+\newblock ISSN 0378-8733.
+\newblock 00000.
+
+\bibitem[Hanneke et~al.(2010)Hanneke, Fu, and Xing]{hanneke_discrete_2010}
+Steve Hanneke, Wenjie Fu, and Eric~P Xing.
+\newblock Discrete temporal models of social networks.
+\newblock \emph{Electronic Journal of Statistics}, 4:\penalty0 585--605, 2010.
+\newblock ISSN 1935-7524.
+
+\bibitem[Robins and Pattison(2001)]{robins_random_2001}
+Garry Robins and Philippa Pattison.
+\newblock Random graph models for temporal processes in social networks.
+\newblock \emph{Journal of Mathematical Sociology}, 25\penalty0 (1):\penalty0
+  5--41, 2001.
+\newblock ISSN 0022-250X.
+
+\bibitem[Leifeld et~al.(2015)Leifeld, Cranmer, and
+  Desmarais]{leifeld_temporal_2015}
+Philip Leifeld, Skyler~J Cranmer, and Bruce~A Desmarais.
+\newblock Temporal {{Exponential Random Graph Models}} with xergm:
+  {{Estimation}} and {{Bootstrap Confidence Intervals}}.
+\newblock \emph{Journal of Statistical Software}, 2015.
+\newblock 00000.
+
+\bibitem[Desmarais and Cranmer(2012)]{desmarais_micro-level_2012}
+Bruce~A. Desmarais and Skyler~J. Cranmer.
+\newblock Micro-{{Level Interpretation}} of {{Exponential Random Graph Models}}
+  with {{Application}} to {{Estuary Networks}}: {{Desmarais}}/{{Cranmer}}:
+  {{Micro}}-{{Level Interpretation}} of {{ERGM}}.
+\newblock \emph{Policy Studies Journal}, 40\penalty0 (3):\penalty0 402--434,
+  August 2012.
+\newblock ISSN 0190292X.
+\newblock \doi{10.1111/j.1541-0072.2012.00459.x}.
+
+\bibitem[Hoff(2008)]{hoff_modeling_2008}
+Peter Hoff.
+\newblock Modeling homophily and stochastic equivalence in symmetric relational
+  data.
+\newblock pages 657--664, 2008.
+
+\bibitem[Hoff(2012)]{hoff_eigenmodel:_2012}
+Peter Hoff.
+\newblock Eigenmodel: {{Semiparametric}} factor and regression models for
+  symmetric relational data.
+\newblock \emph{R package version}, 1, 2012.
+
+\bibitem[Alonso et~al.(2011)Alonso, Brown, Arevalo-Herrera, Binka, Chitnis,
+  Collins, Doumbo, Greenwood, Hall, and Levine]{alonso_research_2011}
+Pedro~L Alonso, Graham Brown, Myriam Arevalo-Herrera, Fred Binka, Chetan
+  Chitnis, Frank Collins, Ogobara~K Doumbo, Brian Greenwood, B~Fenton Hall, and
+  Myron~M Levine.
+\newblock A research agenda to underpin malaria eradication.
+\newblock \emph{PLoS Med}, 8\penalty0 (1):\penalty0 e1000406, 2011.
+\newblock ISSN 1549-1676.
+\newblock 00409.
+
+\bibitem[Handcock et~al.(2003)Handcock, Robins, Snijders, Moody, and
+  Besag]{handcock_assessing_2003}
+Mark~S Handcock, Garry Robins, Tom~AB Snijders, Jim Moody, and Julian Besag.
+\newblock Assessing degeneracy in statistical models of social networks.
+\newblock Technical report, Citeseer, 2003.
+
+\bibitem[Breman(2009)]{breman_eradicating_2009}
+Joel~G Breman.
+\newblock Eradicating malaria.
+\newblock \emph{Science progress}, 92\penalty0 (1):\penalty0 1--38, 2009.
+\newblock ISSN 0036-8504.
+\newblock 00050.
+
+\bibitem[{The Centers for Population Health and Health Disparities Evaluation
+  Working Group} and
+  Okamoto(2015)]{the_centers_for_population_health_and_health_disparities_evaluation_working_group_scientific_2015}
+{The Centers for Population Health and Health Disparities Evaluation Working
+  Group} and Janet Okamoto.
+\newblock Scientific collaboration and team science: A social network analysis
+  of the centers for population health and health disparities.
+\newblock \emph{Translational Behavioral Medicine}, 5\penalty0 (1):\penalty0
+  12--23, March 2015.
+\newblock ISSN 1869-6716, 1613-9860.
+\newblock \doi{10.1007/s13142-014-0280-1}.
+\newblock 00000.
+
+\bibitem[Li et~al.(2013)Li, Liao, and Yen]{li_co-authorship_2013}
+Eldon~Y. Li, Chien~Hsiang Liao, and Hsiuju~Rebecca Yen.
+\newblock Co-authorship networks and research impact: {{A}} social capital
+  perspective.
+\newblock \emph{Research Policy}, 42\penalty0 (9):\penalty0 1515--1530,
+  November 2013.
+\newblock ISSN 00487333.
+\newblock \doi{10.1016/j.respol.2013.06.012}.
+\newblock 00082.
+
+\bibitem[Bales et~al.(2008)Bales, Johnson, and Weng]{bales_social_2008}
+Michael~E Bales, Stephen~B Johnson, and Chunhua Weng.
+\newblock Social network analysis of interdisciplinarity in obesity research.
+\newblock volume 870, 2008.
+\newblock 00015.
+
+\bibitem[Bales et~al.(2011)Bales, Johnson, Keeling, Carley, Kunkel, and
+  Merrill]{bales_evolution_2011}
+Michael~E Bales, Stephen~B Johnson, Jonathan~W Keeling, Kathleen~M Carley,
+  Frank Kunkel, and Jacqueline~A Merrill.
+\newblock Evolution of coauthorship in public health services and systems
+  research.
+\newblock \emph{American journal of preventive medicine}, 41\penalty0
+  (1):\penalty0 112--117, 2011.
+\newblock ISSN 0749-3797.
+\newblock 00012.
+
+\bibitem[Wagner and Leydesdorff(2005)]{wagner_network_2005}
+Caroline~S. Wagner and Loet Leydesdorff.
+\newblock Network structure, self-organization, and the growth of international
+  collaboration in science.
+\newblock \emph{Research Policy}, 34\penalty0 (10):\penalty0 1608--1618,
+  December 2005.
+\newblock ISSN 00487333.
+\newblock \doi{10.1016/j.respol.2005.08.002}.
+\newblock 00657.
+
+\bibitem[Onyancha and Maluleka(2011)]{onyancha_knowledge_2011}
+Omwoyo~Bosire Onyancha and Jan~Resenga Maluleka.
+\newblock Knowledge production through collaborative research in sub-{{Saharan
+  Africa}}: How much do countries contribute to each other's knowledge output
+  and citation impact?
+\newblock \emph{Scientometrics}, 87\penalty0 (2):\penalty0 315--336, May 2011.
+\newblock ISSN 1588-2861.
+\newblock \doi{10.1007/s11192-010-0330-5}.
+
+\bibitem[Schmid and Desmarais(2017)]{schmid_exponential_2017}
+Christian~S Schmid and Bruce~A Desmarais.
+\newblock Exponential {{Random Graph Models}} with {{Big Networks}}: {{Maximum
+  Pseudolikelihood Estimation}} and the {{Parametric Bootstrap}}.
+\newblock \emph{arXiv preprint arXiv:1708.02598}, 2017.
+
+\bibitem[Valente et~al.(2009)Valente, Fujimoto, Chou, and
+  Spruijt-Metz]{valente_adolescent_2009}
+Thomas~W. Valente, Kayo Fujimoto, Chih-Ping Chou, and Donna Spruijt-Metz.
+\newblock Adolescent {{Affiliations}} and {{Adiposity}}: {{A Social Network
+  Analysis}} of {{Friendships}} and {{Obesity}}.
+\newblock \emph{Journal of Adolescent Health}, 45\penalty0 (2):\penalty0
+  202--204, August 2009.
+\newblock ISSN 1054139X.
+\newblock \doi{10.1016/j.jadohealth.2009.01.007}.
+
+\bibitem[{de la Haye} et~al.(2010){de la Haye}, Robins, Mohr, and
+  Wilson]{de_la_haye_obesity-related_2010}
+Kayla {de la Haye}, Garry Robins, Philip Mohr, and Carlene Wilson.
+\newblock Obesity-related behaviors in adolescent friendship networks.
+\newblock \emph{Social Networks}, 32\penalty0 (3):\penalty0 161--167, July
+  2010.
+\newblock ISSN 03788733.
+\newblock \doi{10.1016/j.socnet.2009.09.001}.
+
+\bibitem[Kornienko et~al.(2014)Kornienko, Clemans, Out, and
+  Granger]{kornienko_hormones_2014}
+Olga Kornienko, Katherine~H Clemans, Doroth{\'e}e Out, and Douglas~A Granger.
+\newblock Hormones, behavior, and social network analysis: {{Exploring}}
+  associations between cortisol, testosterone, and network structure.
+\newblock \emph{Hormones and behavior}, 66\penalty0 (3):\penalty0 534--544,
+  2014.
+\newblock ISSN 0018-506X.
+
+\bibitem[Hunter et~al.(2008)Hunter, Goodreau, and
+  Handcock]{hunter_goodness_2008}
+David~R Hunter, Steven~M Goodreau, and Mark~S Handcock.
+\newblock Goodness of {{Fit}} of {{Social Network Models}}.
+\newblock \emph{Journal of the American Statistical Association}, 103\penalty0
+  (481):\penalty0 248--258, March 2008.
+\newblock ISSN 0162-1459, 1537-274X.
+\newblock \doi{10.1198/016214507000000446}.
+
+\bibitem[Kronegger et~al.(2012)Kronegger, Mali, Ferligoj, and
+  Doreian]{kronegger_collaboration_2012}
+Luka Kronegger, Franc Mali, Anu{\v s}ka Ferligoj, and Patrick Doreian.
+\newblock Collaboration structures in {{Slovenian}} scientific communities.
+\newblock \emph{Scientometrics}, 90\penalty0 (2):\penalty0 631--647, February
+  2012.
+\newblock ISSN 1588-2861.
+\newblock \doi{10.1007/s11192-011-0493-8}.
+
+\bibitem[Wagner et~al.(2001)Wagner, Brahmakulam, Jackson, Wong, and
+  Yoda]{wagner_science_2001}
+Caroline~S Wagner, Irene Brahmakulam, Brian Jackson, Anny Wong, and Tatsuro
+  Yoda.
+\newblock Science and technology collaboration: {{Building}} capability in
+  developing countries.
+\newblock Technical report, RAND CORP SANTA MONICA CA, 2001.
+
+\bibitem[{World Health
+  Organization}(2016{\natexlab{a}})]{world_health_organization_global_2016}
+{World Health Organization}.
+\newblock Global tuberculosis report 2016.
+\newblock 2016{\natexlab{a}}.
+\newblock ISSN 924156539X.
+
+\bibitem[{World Health Organization}(2013)]{world_health_organization_mdg_2013}
+{World Health Organization}.
+\newblock {{MDG}} 6: Combat {{HIV}}/{{AIDS}}, malaria and other diseases.
+\newblock \emph{Updated February}, 2013.
+
+\bibitem[Falzon et~al.(2017)Falzon, Sch{\"u}nemann, Harausz,
+  Gonz{\'a}lez-Angulo, Lienhardt, Jaramillo, and Weyer]{falzon_world_2017}
+Dennis Falzon, Holger~J Sch{\"u}nemann, Elizabeth Harausz, Lic{\'e}
+  Gonz{\'a}lez-Angulo, Christian Lienhardt, Ernesto Jaramillo, and Karin Weyer.
+\newblock World {{Health Organization}} treatment guidelines for drug-resistant
+  tuberculosis, 2016 update.
+\newblock \emph{European Respiratory Journal}, 49\penalty0 (3):\penalty0
+  1602308, 2017.
+\newblock ISSN 0903-1936.
+
+\bibitem[Lynch(2013)]{lynch_multidrug-resistant_2013}
+John~B Lynch.
+\newblock Multidrug-resistant tuberculosis.
+\newblock \emph{Medical Clinics}, 97\penalty0 (4):\penalty0 553--579, 2013.
+\newblock ISSN 0025-7125.
+
+\bibitem[Scott(2017)]{scott_social_2017}
+John Scott.
+\newblock \emph{Social Network Analysis}.
+\newblock {Sage}, 2017.
+\newblock ISBN 1-5264-1225-X.
+
+\bibitem[Uddin et~al.(2012)Uddin, Hossain, Abbasi, and
+  Rasmussen]{uddin_trend_2012}
+Shahadat Uddin, Liaquat Hossain, Alireza Abbasi, and Kim Rasmussen.
+\newblock Trend and efficiency analysis of co-authorship network.
+\newblock \emph{Scientometrics}, 90\penalty0 (2):\penalty0 687--699, 2012.
+\newblock ISSN 0138-9130.
+
+\bibitem[{World Health
+  Organization}(2016{\natexlab{b}})]{world_health_organization_atlas_2016}
+{World Health Organization}.
+\newblock Atlas of {{African Health Statistics}} 2016: Health situation
+  analysis of the {{African Region}}.
+\newblock 2016{\natexlab{b}}.
+\newblock ISSN 9290232919.
+
+\bibitem[Nakazono et~al.(2006)Nakazono, Misue, and Tanaka]{nakazono_nel_2006}
+Nagayoshi Nakazono, Kazuo Misue, and Jiro Tanaka.
+\newblock {{NeL}} 2: Network drawing tool for handling layered structured
+  network diagram.
+\newblock pages 109--115. {Australian Computer Society, Inc.}, 2006.
+\newblock ISBN 1-920682-41-4.
+
+\bibitem[Odoni et~al.(13-15 March 2017)Odoni, Semar, and
+  Mastrandrea]{odoni_visualisation_2017}
+Fabian Odoni, Wolfgang Semar, and Elena Mastrandrea.
+\newblock Visualisation of {{Collaboration}} in {{Social Collaborative
+  Knowledge Management Systems}}.
+\newblock In \emph{Understanding {{Information Spaces}}. {{Proceedings}} of the
+  15th {{International Symposium}} of {{Information Science}} ({{ISI}} 2017)},
+  pages 386--388, Berlin, 13-15 March 2017.
+
+\bibitem[Liu et~al.(2004)Liu, Bollen, Nelson, {Van de Sompel}, Hussell, Luce,
+  and Marks]{liu_toolkits_2004}
+Xiaoming Liu, Johan Bollen, Michael~L. Nelson, Herbert {Van de Sompel}, Jeremy
+  Hussell, Rick Luce, and Linn Marks.
+\newblock Toolkits for visualizing co-authorship graph.
+\newblock page 404. {ACM Press}, 2004.
+\newblock ISBN 978-1-58113-832-0.
+\newblock \doi{10.1145/996350.996470}.
+
+\bibitem[Horak et~al.(2011)Horak, Kudelka, Snasel, Abraham, and
+  Rezankova]{horak_forcoa.net:_2011}
+Zdenek Horak, Milos Kudelka, Vaclav Snasel, Ajith Abraham, and Hana Rezankova.
+\newblock Forcoa.{{NET}}: {{An}} interactive tool for exploring the
+  significance of authorship networks in {{DBLP}} data.
+\newblock pages 261--266. {IEEE}, October 2011.
+\newblock ISBN 978-1-4577-1133-6 978-1-4577-1132-9 978-1-4577-1131-2.
+\newblock \doi{10.1109/CASON.2011.6085955}.
+
+\bibitem[Barbosa et~al.(2012)Barbosa, Moro, Lopes, and {de
+  Oliveira}]{barbosa_vrrc:_2012}
+Eduardo~M. Barbosa, Mirella~M. Moro, Giseli~Rabello Lopes, and J.~Palazzo~M.
+  {de Oliveira}.
+\newblock {{VRRC}}: Web based tool for visualization and recommendation on
+  co-authorship network (abstract only).
+\newblock page 865. {ACM Press}, 2012.
+\newblock ISBN 978-1-4503-1247-9.
+\newblock \doi{10.1145/2213836.2213975}.
+
+\bibitem[Grinberg(2014)]{grinberg_flask_2014}
+Miguel Grinberg.
+\newblock \emph{Flask Web Development: Developing Web Applications with
+  Python}.
+\newblock {" O'Reilly Media, Inc."}, 2014.
+\newblock ISBN 1-4919-4761-6.
+
+\bibitem[Bostock(2012)]{bostock_d3._2012}
+Michael Bostock.
+\newblock D3. js.
+\newblock \emph{Data Driven Documents}, 492:\penalty0 701, 2012.
+
+\bibitem[Toyoda and Kitsuregawa(2005)]{toyoda_system_2005}
+Masashi Toyoda and Masaru Kitsuregawa.
+\newblock A system for visualizing and analyzing the evolution of the web with
+  a time series of graphs.
+\newblock pages 151--160. {ACM}, 2005.
+\newblock ISBN 1-59593-168-6.
+
+\bibitem[Chen and Carr(1999)]{chen_visualizing_1999}
+Chaomei Chen and Leslie Carr.
+\newblock Visualizing the evolution of a subject domain: A case study.
+\newblock pages 449--452. {IEEE Computer Society Press}, 1999.
+\newblock ISBN 0-7803-5897-X.
+
+\bibitem[Erten et~al.(2005)Erten, Kobourov, Le, and
+  Navabi]{erten_simultaneous_2005}
+Cesim Erten, Stephen~G Kobourov, Vu~Le, and Armand Navabi.
+\newblock Simultaneous {{Graph Drawing}}: {{Layout Algorithms}} and
+  {{Visualization Schemes}}.
+\newblock \emph{J. Graph ALgorithms Appl.}, 9\penalty0 (1):\penalty0 165--182,
+  2005.
+
+\bibitem[Csardi and Nepusz(2006)]{csardi_igraph_2006}
+Gabor Csardi and Tamas Nepusz.
+\newblock The igraph software package for complex network research.
+\newblock \emph{InterJournal, Complex Systems}, 1695\penalty0 (5):\penalty0
+  1--9, 2006.
+
+\bibitem[Newman(2008)]{newman_physics_2008}
+Mark Newman.
+\newblock The physics of networks.
+\newblock \emph{Physics today}, 61\penalty0 (11):\penalty0 33--38, 2008.
+\newblock ISSN 0031-9228.
+
+\bibitem[Chang et~al.(2017)Chang, Cheng, Allaire, Xie, and
+  McPherson]{chang_shiny:_2017}
+Winston Chang, Joe Cheng, JJ~Allaire, Yihui Xie, and Jonathan McPherson.
+\newblock Shiny: {{Web Application Framework}} for {{R}}. {{R}} package version
+  1.0. 3.
+\newblock 2017.
+\newblock URL \url{https://CRAN.R-project.org/package=shiny}.
+
+\bibitem[Chang and {Barbara Borges Ribeiro}(2015)]{chang_shinydashboard:_2015}
+W~Chang and {Barbara Borges Ribeiro}.
+\newblock Shinydashboard: {{Create Dashboards}} with `{{Shiny}}'.
+\newblock \emph{R package version 0.5}, 1, 2015.
+
+\bibitem[Falagas et~al.(2007)Falagas, Pitsouni, Malietzis, and
+  Pappas]{falagas_comparison_2007}
+M.~E. Falagas, E.~I. Pitsouni, G.~A. Malietzis, and G.~Pappas.
+\newblock Comparison of {{PubMed}}, {{Scopus}}, {{Web}} of {{Science}}, and
+  {{Google Scholar}}: Strengths and weaknesses.
+\newblock \emph{The FASEB Journal}, 22\penalty0 (2):\penalty0 338--342,
+  September 2007.
+\newblock ISSN 0892-6638, 1530-6860.
+\newblock \doi{10.1096/fj.07-9492LSF}.
+\newblock 00997.
+
+\bibitem[Matias and Miele(2016)]{matias_statistical_2016}
+Catherine Matias and Vincent Miele.
+\newblock Statistical clustering of temporal networks through a dynamic
+  stochastic block model.
+\newblock \emph{Journal of the Royal Statistical Society: Series B (Statistical
+  Methodology)}, August 2016.
+\newblock ISSN 13697412.
+\newblock \doi{10.1111/rssb.12200}.
+\newblock 00018.
+
+\end{thebibliography}

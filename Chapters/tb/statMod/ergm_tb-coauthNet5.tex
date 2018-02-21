@@ -1,0 +1,30 @@
+
+\begin{table}
+\begin{center}
+\hspace*{-1cm}
+\small
+\begin{tabular}{@{}lcclclcl@{}}
+\toprule
+           &  & Model 1 &  & Model 2  &  & Model 3\\ \cmidrule{3-3} \cmidrule{5-5} \cmidrule{7-7}            &  & Estimate ($SE$) &  & Estimate ($SE$)  &  & Estimate ($SE$) \\ \midrule
+           Network structural predictor &  &   &  &  &  \\
+\hspace{10pt}Intercept(edge) & & $-2.19 \; (0.03)^{***}$ & & $-7.84 \; (0.16)^{***}$ & & $-7.86 \; (0.17)^{***}$ \\ \\
+Number of times cited        & &       --  & & $\hspace{6pt}0.01 \; (0.00)^{***}$ &  & $\hspace{6pt}0.01 \; (0.00)^{***}$  \\
+Number of collaborations     & &  --  & & $\hspace{6pt}0.08 \; (0.00)^{***}$ &  & $\hspace{6pt}0.07 \; (0.00)^{***}$  \\
+Number of publications       & &  --  & & $-0.05 \; (0.01)^{**~}$ &  & $0.01 \; (0.02)^{~~~~}$   \\
+Homophily on cluster assignment &  &   --  &  & $\hspace{6pt}6.02 \; (0.13)^{***}$ &  & $\hspace{6pt}6.12 \; (0.14)^{***}$  \\
+Homophily on collaboration type   &   & -- &   & $\hspace{6pt}0.83 \; (0.10)^{***}$ &  & $\hspace{6pt}0.90 \; (0.10)^{***}$  \\ \\
+Factor attribute effect (collaboration type) &  &    &  &  &   &   \\
+\hspace{10pt}International   &  & --   &  & --   &  & $REF$\\
+\hspace{10pt}National        & &  --   &  &  -- & & $-0.40 \; (0.09)^{***}$ \\
+\hspace{10pt}Regional        & &  --   &  & --  & & $\hspace{6pt}0.22 \; (0.08)^{**~}$   \\
+\midrule
+AIC           &  & $\hspace{6pt}9737.42$  &  & $\hspace{6pt}3776.48$  &  & $\hspace{6pt}3747.34$ \\
+BIC           &  & $\hspace{6pt}9745.03$  &  & $\hspace{6pt}3822.12$  &  & $\hspace{6pt}3808.20$ \\
+Log Likelihood   &  & $-4867.71$        &  & $-1882.24$         &    & $-1865.67$ \\
+\bottomrule
+\multicolumn{4}{l}{\scriptsize{$^{***}p<0.001$, $^{**}p<0.01$, $^*p<0.05$}}
+\end{tabular}
+\caption{ERGM of the TB Co-authorship Network.}
+\label{tab:tb_ergm}
+\end{center}
+\end{table}
