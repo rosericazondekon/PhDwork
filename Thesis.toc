@@ -66,10 +66,9 @@
 \contentsline {section}{\numberline {6.1}Background}{117}{section.135}
 \contentsline {section}{\numberline {6.2}Related work}{118}{section.136}
 \contentsline {section}{\numberline {6.3}Design and Architecture}{120}{section.137}
-\contentsline {subsection}{\numberline {6.3.1}Data}{120}{subsection.138}
-\contentsline {subsection}{\numberline {6.3.2}Network Visualization}{120}{subsection.139}
-\contentsline {subsection}{\numberline {6.3.3}Web Framework}{121}{subsection.140}
-\contentsline {section}{\numberline {6.4}Deployment}{122}{section.141}
-\contentsline {section}{\numberline {6.5}Future Directions}{122}{section.142}
-\contentsline {chapter}{General Conclusion}{123}{chapter*.143}
-\contentsline {chapter}{Bibliography}{126}{dummy.144}
+\contentsline {subsection}{\numberline {6.3.1}Data}{121}{subsection.139}
+\contentsline {subsection}{\numberline {6.3.2}Network Visualization}{121}{subsection.140}
+\contentsline {subsection}{\numberline {6.3.3}Web Framework}{122}{subsection.142}
+\contentsline {section}{\numberline {6.4}Deployment}{123}{section.143}
+\contentsline {chapter}{General Conclusion}{124}{chapter*.144}
+\contentsline {chapter}{Bibliography}{127}{dummy.146}

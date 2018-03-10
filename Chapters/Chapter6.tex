@@ -21,11 +21,27 @@ Here, we propose \textbf{AuthorVis}, a co-authorship visualization and scientifi
 \section{Design and Architecture}
 \textbf{AuthorVis} is built to a Shiny dashboard with an R based backend system that managed each co-authorship network data as an igraph object \cite{csardi_igraph_2006}. The backend system allows the end user to query the system through the Shinyboard. It is combined to a Javascript web based frontend that displays the network graph, and handle user interactions with the network.
 
+\begin{figure}[!ht]
+\centering
+\hspace{-1.5cm}\includegraphics[scale=0.26]{Chapters/authorvis/screen2}
+~\\~\\
+\hspace{-1.5cm}\includegraphics[scale=0.26]{Chapters/authorvis/screen4}
+\caption{Screenshots of the Shiny application interface.}
+\label{authorvis_screen1}
+\end{figure}
+
 \subsection{Data}
 Currently, \textbf{AuthorVis} is designed specifically for the visualization of the Malaria, Tuberculosis and HIV/AIDS collaborative network in Benin. We refer the reader to section \ref{sec:data_collection} for details on the collection and treatment of the co-authorship data. On the server end, each network data is maintained as an igraph object. Each submitted user query is interpreted and incorporated in an igraph function to extract the network data. Another igraph object is generated as a result and converted into a JSON data using a specific Python script.
 
 \subsection{Network Visualization}
 The frontend network visualisation is built using the Javascript D3.js \cite{bostock_d3._2012}. We built in a navigation panel allowing the user to interact with the network and control physics of network \cite{newman_physics_2008}. We incorporated several Javascript functions to design an intuitive and user friendly visualization interface. A mouse hover over a vertex displays a tooltip of details on the author represented by the vertex while a double-click on a vertex highlights the subnetwork of the identified network. We made edges clickable. Once an edge is clicked, the list of published materials co-authored by the two vertices defining the clicked edge is displayed in a panel on the right hand side. All published materials listed can be traced back to their publication page on the web via their DOI or the WOS accession number with a single click.
+
+\begin{figure}[!ht]
+\centering
+\hspace{-1.5cm}\includegraphics[scale=0.26]{Chapters/authorvis/vis3}
+\caption{Screenshot of the co-authorship network visualization interface.}
+\label{net_vis}
+\end{figure}
 
 
 \subsection{Web Framework}
@@ -34,10 +50,10 @@ The prediction tool is model based and used the ERGM models to calculate a proba
 When the user chooses the visualization menu, an interface allows him to submit his query to the system. The query is interpreted and processed on the server end and the user is automatically prompted to a new visualization page.
 
 \section{Deployment}
-The visualization front-end is maintained by an Python http-server. The system is packed in a Docker container to facilitate its use and installation. We also made it accessible online via https://www....
+The visualization front-end is maintained by an Python http-server. The system is packed in a Docker container to facilitate its use and installation. The project source files can be forked or cloned from Github at \url{https://github.com/rosericazondekon/authorvis}. We also made it accessible online via an  \href{https://#}{AWS server}.
 
-\section{Future Directions}
-Currently, \textbf{AuthorVis} is specifically built for Malaria, TB and HIV/AIDS in Benin. Future development will extend the tool to other research domain. We also aim at adding a general purpose module to \textbf{AuthorVis} for the visualization of any user-input co-authorship network. This will also require the integration of a data pre-processing module to facilitate the disambiguation and deduplication of co-authorship information. Finally, we will also incorporate a layered structured network visualization \cite{nakazono_nel_2006} functionality to the visualization in order to display temporal changes in the evolution of the co-authorship network.
+%\section{Future Directions}
+%Currently, \textbf{AuthorVis} is specifically built for Malaria, TB and HIV/AIDS in Benin. Future development will extend the tool to other research domain. We also aim at adding a general purpose module to \textbf{AuthorVis} for the visualization of any user-input co-authorship network. This will also require the integration of a data pre-processing module to facilitate the disambiguation and deduplication of co-authorship information. Finally, we will also incorporate a layered structured network visualization \cite{nakazono_nel_2006} functionality to the visualization in order to display temporal changes in the evolution of the co-authorship network.
 
 
 %\section{Conclusion}

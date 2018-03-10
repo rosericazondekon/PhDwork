@@ -44,3 +44,5 @@
 \contentsline {figure}{\numberline {5.12}{\ignorespaces Visualizations of the TB co-authorship network with layouts determined according to the inferred latent eigenvectors in the LNM models. \relax }}{112}{figure.caption.131}
 \contentsline {figure}{\numberline {5.13}{\ignorespaces ROC curves comparing the goodness-of fit of the TB co-authorship network for the model specifying (i) no pair specific covariates (blue) and the model specifying (ii) nodal covariates (red).\relax }}{113}{figure.caption.132}
 \addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Screenshots of the Shiny application interface.\relax }}{120}{figure.caption.138}
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Screenshot of the co-authorship network visualization interface.\relax }}{122}{figure.caption.141}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2016.5.4)  14 FEB 2018 11:21
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2016.5.4)  10 MAR 2018 15:13
 entering extended mode
 **Thesis.tex
 
@@ -914,9 +914,9 @@ Overfull \hbox (19.54872pt too wide) in paragraph at lines 28--28
  of the HIV/AIDS co-authorship 
  []
 
-[8])
+[8] [9])
 \tf@lof=\write5
- [9] [10])
+ [10])
 ("C:\Users\Roseric\Documents\PhD proposal\thesisTemplate\easyThesisWriting\Fron
 tpages/Fixed/ListOfTables.tex"
 ------------------------------------------------------------------------------
@@ -1007,7 +1007,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 16--20
 [36
 
 ] [37]
-<Chapters/malaria/degreeDistribution.pdf, id=1022, 505.89pt x 361.35pt>
+<Chapters/malaria/degreeDistribution.pdf, id=1021, 505.89pt x 361.35pt>
 File: Chapters/malaria/degreeDistribution.pdf Graphic file (type pdf)
 
 <use Chapters/malaria/degreeDistribution.pdf>
@@ -1015,7 +1015,7 @@ Package pdftex.def Info: Chapters/malaria/degreeDistribution.pdf used on input
 line 48.
 (pdftex.def)             Requested size: 379.41655pt x 271.01184pt.
 
-<Chapters/malaria/pubDist.jpeg, id=1024, 632.3625pt x 365.11406pt>
+<Chapters/malaria/pubDist.jpeg, id=1023, 632.3625pt x 365.11406pt>
 File: Chapters/malaria/pubDist.jpeg Graphic file (type jpg)
 
 <use Chapters/malaria/pubDist.jpeg>
@@ -1028,7 +1028,7 @@ LaTeX Warning: Text page 39 contains only floats.
 [39 <C:/Users/Roseric/Documents/PhD proposal/thesisTemplate/easyThesisWriting/C
 hapters/malaria/degreeDistribution.pdf> <C:/Users/Roseric/Documents/PhD proposa
 l/thesisTemplate/easyThesisWriting/Chapters/malaria/pubDist.jpeg>] [40]
-<Chapters/malaria/mnet.png, id=1050, 505.89pt x 505.89pt>
+<Chapters/malaria/mnet.png, id=1049, 505.89pt x 505.89pt>
 File: Chapters/malaria/mnet.png Graphic file (type png)
 
 <use Chapters/malaria/mnet.png>
@@ -1041,7 +1041,7 @@ Overfull \hbox (26.43842pt too wide) in paragraph at lines 133--135
 
 [41] [42 <C:/Users/Roseric/Documents/PhD proposal/thesisTemplate/easyThesisWrit
 ing/Chapters/malaria/mnet.png>]
-<Chapters/malaria/randomComm.pdf, id=1062, 505.89pt x 361.35pt>
+<Chapters/malaria/randomComm.pdf, id=1061, 505.89pt x 361.35pt>
 File: Chapters/malaria/randomComm.pdf Graphic file (type pdf)
 
 <use Chapters/malaria/randomComm.pdf>
@@ -1049,7 +1049,7 @@ Package pdftex.def Info: Chapters/malaria/randomComm.pdf used on input line 145
 .
 (pdftex.def)             Requested size: 379.41655pt x 271.01184pt.
 
-<Chapters/malaria/mechanisticComm.pdf, id=1064, 505.89pt x 361.35pt>
+<Chapters/malaria/mechanisticComm.pdf, id=1063, 505.89pt x 361.35pt>
 File: Chapters/malaria/mechanisticComm.pdf Graphic file (type pdf)
 
 <use Chapters/malaria/mechanisticComm.pdf>
@@ -1064,7 +1064,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 159--163
 [43] [44 <C:/Users/Roseric/Documents/PhD proposal/thesisTemplate/easyThesisWrit
 ing/Chapters/malaria/randomComm.pdf>] [45 <C:/Users/Roseric/Documents/PhD propo
 sal/thesisTemplate/easyThesisWriting/Chapters/malaria/mechanisticComm.pdf>]
-<Chapters/malaria/statMod/unnamed-chunk-1-1.pdf, id=1089, 505.89pt x 505.89pt>
+<Chapters/malaria/statMod/unnamed-chunk-1-1.pdf, id=1088, 505.89pt x 505.89pt>
 File: Chapters/malaria/statMod/unnamed-chunk-1-1.pdf Graphic file (type pdf)
 
 <use Chapters/malaria/statMod/unnamed-chunk-1-1.pdf>
@@ -1072,7 +1072,7 @@ Package pdftex.def Info: Chapters/malaria/statMod/unnamed-chunk-1-1.pdf used on
  input line 172.
 (pdftex.def)             Requested size: 379.41655pt x 379.41655pt.
  [46]
-<Chapters/malaria/statMod/unnamed-chunk-2-1.pdf, id=1095, 505.89pt x 289.08pt>
+<Chapters/malaria/statMod/unnamed-chunk-2-1.pdf, id=1094, 505.89pt x 289.08pt>
 File: Chapters/malaria/statMod/unnamed-chunk-2-1.pdf Graphic file (type pdf)
 
 <use Chapters/malaria/statMod/unnamed-chunk-2-1.pdf>
@@ -1081,7 +1081,7 @@ Package pdftex.def Info: Chapters/malaria/statMod/unnamed-chunk-2-1.pdf used on
 (pdftex.def)             Requested size: 379.41655pt x 216.80946pt.
  [47 <C:/Users/Roseric/Documents/PhD proposal/thesisTemplate/easyThesisWriting/
 Chapters/malaria/statMod/unnamed-chunk-1-1.pdf>]
-<Chapters/malaria/statMod/unnamed-chunk-3-1.pdf, id=1110, 505.89pt x 289.08pt>
+<Chapters/malaria/statMod/unnamed-chunk-3-1.pdf, id=1109, 505.89pt x 289.08pt>
 File: Chapters/malaria/statMod/unnamed-chunk-3-1.pdf Graphic file (type pdf)
 
 <use Chapters/malaria/statMod/unnamed-chunk-3-1.pdf>
@@ -1099,7 +1099,7 @@ Overfull \hbox (40.06055pt too wide) in paragraph at lines 232--258
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[51] <Chapters/malaria/statMod/ergm_gof.jpeg, id=1145, 526.96875pt x 602.25pt>
+[51] <Chapters/malaria/statMod/ergm_gof.jpeg, id=1144, 526.96875pt x 602.25pt>
 File: Chapters/malaria/statMod/ergm_gof.jpeg Graphic file (type jpg)
 
 <use Chapters/malaria/statMod/ergm_gof.jpeg>
@@ -1111,7 +1111,7 @@ ine 268.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [52]
-<Chapters/malaria/statMod/dynMNet2.png, id=1152, 1319.68031pt x 652.68843pt>
+<Chapters/malaria/statMod/dynMNet2.png, id=1151, 1319.68031pt x 652.68843pt>
 File: Chapters/malaria/statMod/dynMNet2.png Graphic file (type png)
 
 <use Chapters/malaria/statMod/dynMNet2.png>
@@ -1132,7 +1132,7 @@ Overfull \hbox (21.27309pt too wide) in paragraph at lines 295--326
  []
 
 [56]
-<Chapters/malaria/statMod/tergm_gof.png, id=1177, 623.32875pt x 443.40656pt>
+<Chapters/malaria/statMod/tergm_gof.png, id=1176, 623.32875pt x 443.40656pt>
 File: Chapters/malaria/statMod/tergm_gof.png Graphic file (type png)
 
 <use Chapters/malaria/statMod/tergm_gof.png>
@@ -1141,7 +1141,7 @@ ine 337.
 (pdftex.def)             Requested size: 405.15889pt x 288.21085pt.
  [57 <C:/Users/Roseric/Documents/PhD proposal/thesisTemplate/easyThesisWriting/
 Chapters/malaria/statMod/tergm_gof.png (PNG copy)>] [58]
-<Chapters/malaria/statMod/lnm_mod1_null.png, id=1188, 689.57625pt x 549.05125pt
+<Chapters/malaria/statMod/lnm_mod1_null.png, id=1187, 689.57625pt x 549.05125pt
 >
 File: Chapters/malaria/statMod/lnm_mod1_null.png Graphic file (type png)
  <use Chapters/malaria/statMod/lnm_mod1_null.png>
@@ -1149,7 +1149,7 @@ Package pdftex.def Info: Chapters/malaria/statMod/lnm_mod1_null.png used on inp
 ut line 349.
 (pdftex.def)             Requested size: 164.195pt x 164.71664pt.
 
-<Chapters/malaria/statMod/lnm_mod5_nodes.png, id=1189, 673.51625pt x 570.13pt>
+<Chapters/malaria/statMod/lnm_mod5_nodes.png, id=1188, 673.51625pt x 570.13pt>
 File: Chapters/malaria/statMod/lnm_mod5_nodes.png Graphic file (type png)
 
 <use Chapters/malaria/statMod/lnm_mod5_nodes.png>
@@ -1157,7 +1157,7 @@ Package pdftex.def Info: Chapters/malaria/statMod/lnm_mod5_nodes.png used on in
 put line 351.
 (pdftex.def)             Requested size: 159.37697pt x 171.04031pt.
 
-<Chapters/malaria/statMod/lnm_mod6_all.png, id=1190, 629.35126pt x 566.115pt>
+<Chapters/malaria/statMod/lnm_mod6_all.png, id=1189, 629.35126pt x 566.115pt>
 File: Chapters/malaria/statMod/lnm_mod6_all.png Graphic file (type png)
 
 <use Chapters/malaria/statMod/lnm_mod6_all.png>
@@ -1169,7 +1169,7 @@ Chapters/malaria/statMod/lnm_mod1_null.png (PNG copy)> <C:/Users/Roseric/Docume
 nts/PhD proposal/thesisTemplate/easyThesisWriting/Chapters/malaria/statMod/lnm_
 mod5_nodes.png (PNG copy)> <C:/Users/Roseric/Documents/PhD proposal/thesisTempl
 ate/easyThesisWriting/Chapters/malaria/statMod/lnm_mod6_all.png (PNG copy)>]
-<Chapters/malaria/statMod/lnm_ROC.png, id=1196, 490.08093pt x 422.32782pt>
+<Chapters/malaria/statMod/lnm_ROC.png, id=1195, 490.08093pt x 422.32782pt>
 File: Chapters/malaria/statMod/lnm_ROC.png Graphic file (type png)
 
 <use Chapters/malaria/statMod/lnm_ROC.png>
@@ -1192,7 +1192,7 @@ Overfull \hbox (20.8089pt too wide) in paragraph at lines 24--38
  []|  [] 
  []
 
-<Chapters/hiv/pubDist.jpeg, id=1272, 566.86781pt x 331.2375pt>
+<Chapters/hiv/pubDist.jpeg, id=1271, 566.86781pt x 331.2375pt>
 File: Chapters/hiv/pubDist.jpeg Graphic file (type jpg)
 
 <use Chapters/hiv/pubDist.jpeg>
@@ -1202,7 +1202,7 @@ Package pdftex.def Info: Chapters/hiv/pubDist.jpeg used on input line 44.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[69] <Chapters/hiv/degreeDistribution.pdf, id=1282, 505.89pt x 361.35pt>
+[69] <Chapters/hiv/degreeDistribution.pdf, id=1281, 505.89pt x 361.35pt>
 File: Chapters/hiv/degreeDistribution.pdf Graphic file (type pdf)
 
 <use Chapters/hiv/degreeDistribution.pdf>
@@ -1215,7 +1215,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [70 <C:/Users/Roseric/Documents/PhD proposal/thesisTemplate/easyThesisWriting/C
 hapters/hiv/pubDist.jpeg>]
-<Chapters/hiv/logAvgDegree.pdf, id=1290, 505.89pt x 361.35pt>
+<Chapters/hiv/logAvgDegree.pdf, id=1289, 505.89pt x 361.35pt>
 File: Chapters/hiv/logAvgDegree.pdf Graphic file (type pdf)
 
 <use Chapters/hiv/logAvgDegree.pdf>
@@ -1231,7 +1231,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 [71 <C:/Users/Roseric/Documents/PhD proposal/thesisTemplate/easyThesisWriting/C
 hapters/hiv/degreeDistribution.pdf>] [72 <C:/Users/Roseric/Documents/PhD propos
 al/thesisTemplate/easyThesisWriting/Chapters/hiv/logAvgDegree.pdf>] [73]
-<Chapters/hiv/hivaids_net.png, id=1320, 1084.05pt x 1084.05pt>
+<Chapters/hiv/hivaids_net.png, id=1319, 1084.05pt x 1084.05pt>
 File: Chapters/hiv/hivaids_net.png Graphic file (type png)
 
 <use Chapters/hiv/hivaids_net.png>
@@ -1241,7 +1241,7 @@ Package pdftex.def Info: Chapters/hiv/hivaids_net.png used on input line 135.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Chapters/hiv/randomComm.pdf, id=1322, 505.89pt x 361.35pt>
+<Chapters/hiv/randomComm.pdf, id=1321, 505.89pt x 361.35pt>
 File: Chapters/hiv/randomComm.pdf Graphic file (type pdf)
 
 <use Chapters/hiv/randomComm.pdf>
@@ -1253,7 +1253,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [74] [75 <C:/Users/Roseric/Documents/PhD proposal/thesisTemplate/easyThesisWrit
 ing/Chapters/hiv/hivaids_net.png (PNG copy)>]
-<Chapters/hiv/mechanisticComm.pdf, id=1333, 505.89pt x 361.35pt>
+<Chapters/hiv/mechanisticComm.pdf, id=1332, 505.89pt x 361.35pt>
 File: Chapters/hiv/mechanisticComm.pdf Graphic file (type pdf)
 
 <use Chapters/hiv/mechanisticComm.pdf>
@@ -1271,7 +1271,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 162--164
 
 [76 <C:/Users/Roseric/Documents/PhD proposal/thesisTemplate/easyThesisWriting/C
 hapters/hiv/randomComm.pdf>]
-<Chapters/hiv/statMod/hiv_sbm.png, id=1344, 623.32875pt x 441.14813pt>
+<Chapters/hiv/statMod/hiv_sbm.png, id=1343, 623.32875pt x 441.14813pt>
 File: Chapters/hiv/statMod/hiv_sbm.png Graphic file (type png)
 
 <use Chapters/hiv/statMod/hiv_sbm.png>
@@ -1291,7 +1291,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 181--183
 
 [78 <C:/Users/Roseric/Documents/PhD proposal/thesisTemplate/easyThesisWriting/C
 hapters/hiv/statMod/hiv_sbm.png (PNG copy)>]
-<Chapters/hiv/statMod/hiv_sbm_barplot.png, id=1360, 770.12718pt x 474.27188pt>
+<Chapters/hiv/statMod/hiv_sbm_barplot.png, id=1359, 770.12718pt x 474.27188pt>
 File: Chapters/hiv/statMod/hiv_sbm_barplot.png Graphic file (type png)
 
 <use Chapters/hiv/statMod/hiv_sbm_barplot.png>
@@ -1300,7 +1300,7 @@ Package pdftex.def Info: Chapters/hiv/statMod/hiv_sbm_barplot.png used on input
 (pdftex.def)             Requested size: 385.06264pt x 237.13536pt.
  [79 <C:/Users/Roseric/Documents/PhD proposal/thesisTemplate/easyThesisWriting/
 Chapters/hiv/statMod/hiv_sbm_barplot.png (PNG copy)>]
-<Chapters/hiv/statMod/hiv_sbm2.png, id=1366, 623.32875pt x 441.14813pt>
+<Chapters/hiv/statMod/hiv_sbm2.png, id=1365, 623.32875pt x 441.14813pt>
 File: Chapters/hiv/statMod/hiv_sbm2.png Graphic file (type png)
 
 <use Chapters/hiv/statMod/hiv_sbm2.png>
@@ -1313,7 +1313,7 @@ Overfull \hbox (20.81465pt too wide) in paragraph at lines 207--230
  |  [] 
  []
 
-[81] <Chapters/hiv/statMod/ergm_gof2.png, id=1381, 692.5875pt x 444.15938pt>
+[81] <Chapters/hiv/statMod/ergm_gof2.png, id=1380, 692.5875pt x 444.15938pt>
 File: Chapters/hiv/statMod/ergm_gof2.png Graphic file (type png)
 
 <use Chapters/hiv/statMod/ergm_gof2.png>
@@ -1322,7 +1322,7 @@ Package pdftex.def Info: Chapters/hiv/statMod/ergm_gof2.png used on input line
 (pdftex.def)             Requested size: 450.17653pt x 288.70016pt.
  [82] [83 <C:/Users/Roseric/Documents/PhD proposal/thesisTemplate/easyThesisWri
 ting/Chapters/hiv/statMod/ergm_gof2.png>]
-<Chapters/hiv/statMod/hiv_dynNetwork.png, id=1393, 1291.07344pt x 659.46375pt>
+<Chapters/hiv/statMod/hiv_dynNetwork.png, id=1392, 1291.07344pt x 659.46375pt>
 File: Chapters/hiv/statMod/hiv_dynNetwork.png Graphic file (type png)
 
 <use Chapters/hiv/statMod/hiv_dynNetwork.png>
@@ -1340,7 +1340,7 @@ Overfull \hbox (12.77296pt too wide) in paragraph at lines 271--299
  |  [] 
  []
 
-[85] <Chapters/hiv/statMod/tergm_gof.png, id=1405, 849.92531pt x 653.44125pt>
+[85] <Chapters/hiv/statMod/tergm_gof.png, id=1404, 849.92531pt x 653.44125pt>
 File: Chapters/hiv/statMod/tergm_gof.png Graphic file (type png)
 
 <use Chapters/hiv/statMod/tergm_gof.png>
@@ -1357,7 +1357,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [86] [87 <C:/Users/Roseric/Documents/PhD proposal/thesisTemplate/easyThesisWrit
 ing/Chapters/hiv/statMod/tergm_gof.png (PNG copy)>]
-<Chapters/hiv/statMod/lnm_mod1.png, id=1417, 1178.4025pt x 1027.84pt>
+<Chapters/hiv/statMod/lnm_mod1.png, id=1416, 1178.4025pt x 1027.84pt>
 File: Chapters/hiv/statMod/lnm_mod1.png Graphic file (type png)
 
 <use Chapters/hiv/statMod/lnm_mod1.png>
@@ -1365,14 +1365,14 @@ Package pdftex.def Info: Chapters/hiv/statMod/lnm_mod1.png used on input line 3
 19.
 (pdftex.def)             Requested size: 207.22408pt x 205.56436pt.
 
-<Chapters/hiv/statMod/lnm_mod4_allNodal.png, id=1418, 1177.39874pt x 999.735pt>
+<Chapters/hiv/statMod/lnm_mod4_allNodal.png, id=1417, 1177.39874pt x 999.735pt>
 File: Chapters/hiv/statMod/lnm_mod4_allNodal.png Graphic file (type png)
 <use Chapters/hiv/statMod/lnm_mod4_allNodal.png>
 Package pdftex.def Info: Chapters/hiv/statMod/lnm_mod4_allNodal.png used on inp
 ut line 321.
 (pdftex.def)             Requested size: 207.02332pt x 171.4912pt.
 
-<Chapters/hiv/statMod/lnm_mod7_allAttributes.png, id=1419, 1038.88126pt x 1109.
+<Chapters/hiv/statMod/lnm_mod7_allAttributes.png, id=1418, 1038.88126pt x 1109.
 14375pt>
 File: Chapters/hiv/statMod/lnm_mod7_allAttributes.png Graphic file (type png)
  <use Chapters/hiv/statMod/lnm_mod7_allAttributes.png>
@@ -1384,7 +1384,7 @@ n input line 323.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-<Chapters/hiv/statMod/lnm_ROC_nullVSallNodal.png, id=1420, 688.07062pt x 526.96
+<Chapters/hiv/statMod/lnm_ROC_nullVSallNodal.png, id=1419, 688.07062pt x 526.96
 875pt>
 File: Chapters/hiv/statMod/lnm_ROC_nullVSallNodal.png Graphic file (type png)
  <use Chapters/hiv/statMod/lnm_ROC_nullVSallNodal.png>
@@ -1431,14 +1431,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 40--41
 
  []
 
-[94] <Chapters/tb/pubDist.jpeg, id=1459, 662.475pt x 359.09157pt>
+[94] <Chapters/tb/pubDist.jpeg, id=1458, 662.475pt x 359.09157pt>
 File: Chapters/tb/pubDist.jpeg Graphic file (type jpg)
 
 <use Chapters/tb/pubDist.jpeg>
 Package pdftex.def Info: Chapters/tb/pubDist.jpeg used on input line 44.
 (pdftex.def)             Requested size: 397.48807pt x 215.45659pt.
 
-<Chapters/tb/degreeDistribution.pdf, id=1462, 505.89pt x 361.35pt>
+<Chapters/tb/degreeDistribution.pdf, id=1461, 505.89pt x 361.35pt>
 File: Chapters/tb/degreeDistribution.pdf Graphic file (type pdf)
 
 <use Chapters/tb/degreeDistribution.pdf>
@@ -1449,7 +1449,7 @@ Package pdftex.def Info: Chapters/tb/degreeDistribution.pdf used on input line
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Chapters/tb/logAvgDegree.pdf, id=1463, 505.89pt x 361.35pt>
+<Chapters/tb/logAvgDegree.pdf, id=1462, 505.89pt x 361.35pt>
 File: Chapters/tb/logAvgDegree.pdf Graphic file (type pdf)
 
 <use Chapters/tb/logAvgDegree.pdf>
@@ -1472,7 +1472,7 @@ e.pdf>]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Chapters/tb/tbnet.png, id=1488, 1084.05pt x 1084.05pt>
+<Chapters/tb/tbnet.png, id=1487, 1084.05pt x 1084.05pt>
 File: Chapters/tb/tbnet.png Graphic file (type png)
 
 <use Chapters/tb/tbnet.png>
@@ -1489,7 +1489,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 130--132
 
 [97] [98] [99 <C:/Users/Roseric/Documents/PhD proposal/thesisTemplate/easyThesi
 sWriting/Chapters/tb/tbnet.png (PNG copy)>]
-<Chapters/tb/randomComm.pdf, id=1507, 505.89pt x 361.35pt>
+<Chapters/tb/randomComm.pdf, id=1506, 505.89pt x 361.35pt>
 File: Chapters/tb/randomComm.pdf Graphic file (type pdf)
 
 <use Chapters/tb/randomComm.pdf>
@@ -1499,7 +1499,7 @@ Package pdftex.def Info: Chapters/tb/randomComm.pdf used on input line 139.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Chapters/tb/mechanisticComm.pdf, id=1509, 505.89pt x 361.35pt>
+<Chapters/tb/mechanisticComm.pdf, id=1508, 505.89pt x 361.35pt>
 File: Chapters/tb/mechanisticComm.pdf Graphic file (type pdf)
 
 <use Chapters/tb/mechanisticComm.pdf>
@@ -1518,7 +1518,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 153--157
 [100] [101 <C:/Users/Roseric/Documents/PhD proposal/thesisTemplate/easyThesisWr
 iting/Chapters/tb/randomComm.pdf> <C:/Users/Roseric/Documents/PhD proposal/thes
 isTemplate/easyThesisWriting/Chapters/tb/mechanisticComm.pdf>]
-<Chapters/tb/statMod/tb_sbm.jpeg, id=1529, 487.06969pt x 444.15938pt>
+<Chapters/tb/statMod/tb_sbm.jpeg, id=1528, 487.06969pt x 444.15938pt>
 File: Chapters/tb/statMod/tb_sbm.jpeg Graphic file (type jpg)
 
 <use Chapters/tb/statMod/tb_sbm.jpeg>
@@ -1532,7 +1532,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 174--175
 
 [103 <C:/Users/Roseric/Documents/PhD proposal/thesisTemplate/easyThesisWriting/
 Chapters/tb/statMod/tb_sbm.jpeg>]
-<Chapters/tb/statMod/tb_barplot2.png, id=1540, 553.31718pt x 364.36125pt>
+<Chapters/tb/statMod/tb_barplot2.png, id=1539, 553.31718pt x 364.36125pt>
 File: Chapters/tb/statMod/tb_barplot2.png Graphic file (type png)
 
 <use Chapters/tb/statMod/tb_barplot2.png>
@@ -1546,7 +1546,7 @@ Overfull \hbox (22.0537pt too wide) in paragraph at lines 198--221
  []
 
 [105]
-<Chapters/tb/statMod/tb_ergm_gof2.png, id=1554, 1315.91624pt x 468.24937pt>
+<Chapters/tb/statMod/tb_ergm_gof2.png, id=1553, 1315.91624pt x 468.24937pt>
 File: Chapters/tb/statMod/tb_ergm_gof2.png Graphic file (type png)
 
 <use Chapters/tb/statMod/tb_ergm_gof2.png>
@@ -1562,7 +1562,7 @@ Overfull \hbox (46.90685pt too wide) in paragraph at lines 231--235
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [106]
-<Chapters/tb/statMod/tb_dynNetwork.png, id=1561, 1270.7475pt x 660.21657pt>
+<Chapters/tb/statMod/tb_dynNetwork.png, id=1560, 1270.7475pt x 660.21657pt>
 File: Chapters/tb/statMod/tb_dynNetwork.png Graphic file (type png)
 
 <use Chapters/tb/statMod/tb_dynNetwork.png>
@@ -1582,7 +1582,7 @@ Overfull \hbox (21.27309pt too wide) in paragraph at lines 262--290
  |  [] 
  []
 
-<Chapters/tb/statMod/tb_tergm_gof.png, id=1573, 1259.4553pt x 715.92468pt>
+<Chapters/tb/statMod/tb_tergm_gof.png, id=1572, 1259.4553pt x 715.92468pt>
 File: Chapters/tb/statMod/tb_tergm_gof.png Graphic file (type png)
 
 <use Chapters/tb/statMod/tb_tergm_gof.png>
@@ -1603,7 +1603,7 @@ LaTeX Warning: Text page 110 contains only floats.
 
 [110 <C:/Users/Roseric/Documents/PhD proposal/thesisTemplate/easyThesisWriting/
 Chapters/tb/statMod/tb_tergm_gof.png (PNG copy)>]
-<Chapters/tb/statMod/lnm_mod1.png, id=1584, 1002.74625pt x 1115.16624pt>
+<Chapters/tb/statMod/lnm_mod1.png, id=1583, 1002.74625pt x 1115.16624pt>
 File: Chapters/tb/statMod/lnm_mod1.png Graphic file (type png)
 
 <use Chapters/tb/statMod/lnm_mod1.png>
@@ -1611,7 +1611,7 @@ Package pdftex.def Info: Chapters/tb/statMod/lnm_mod1.png used on input line 31
 0.
 (pdftex.def)             Requested size: 176.78748pt x 232.81808pt.
 
-<Chapters/tb/statMod/lnm_mod5_AllNodal.png, id=1585, 782.925pt x 918.43124pt>
+<Chapters/tb/statMod/lnm_mod5_AllNodal.png, id=1584, 782.925pt x 918.43124pt>
 File: Chapters/tb/statMod/lnm_mod5_AllNodal.png Graphic file (type png)
 
 <use Chapters/tb/statMod/lnm_mod5_AllNodal.png>
@@ -1619,7 +1619,7 @@ Package pdftex.def Info: Chapters/tb/statMod/lnm_mod5_AllNodal.png used on inpu
 t line 312.
 (pdftex.def)             Requested size: 128.42665pt x 158.23811pt.
 
-<Chapters/tb/statMod/lnm_mod7_All.png, id=1586, 821.0675pt x 924.45375pt>
+<Chapters/tb/statMod/lnm_mod7_All.png, id=1585, 821.0675pt x 924.45375pt>
 File: Chapters/tb/statMod/lnm_mod7_All.png Graphic file (type png)
 
 <use Chapters/tb/statMod/lnm_mod7_All.png>
@@ -1627,7 +1627,7 @@ Package pdftex.def Info: Chapters/tb/statMod/lnm_mod7_All.png used on input lin
 e 314.
 (pdftex.def)             Requested size: 107.30609pt x 127.98297pt.
  [111]
-<Chapters/tb/statMod/tb_lnm_ROC.png, id=1592, 767.86874pt x 526.21594pt>
+<Chapters/tb/statMod/tb_lnm_ROC.png, id=1591, 767.86874pt x 526.21594pt>
 File: Chapters/tb/statMod/tb_lnm_ROC.png Graphic file (type png)
 
 <use Chapters/tb/statMod/tb_lnm_ROC.png>
@@ -1654,25 +1654,63 @@ tion tool
 ------------------------------------------------------------------------------
 [117
 
-] [118] [119] [120] [121])
+] [118] [119]
+<Chapters/authorvis/screen2.png, id=1658, 1927.2pt x 653.44125pt>
+File: Chapters/authorvis/screen2.png Graphic file (type png)
+
+<use Chapters/authorvis/screen2.png>
+Package pdftex.def Info: Chapters/authorvis/screen2.png used on input line 26.
+(pdftex.def)             Requested size: 501.0602pt x 169.89072pt.
+
+Overfull \hbox (47.45212pt too wide) in paragraph at lines 26--27
+ [] 
+ []
+
+<Chapters/authorvis/screen4.png, id=1659, 1927.2pt x 653.44125pt>
+File: Chapters/authorvis/screen4.png Graphic file (type png)
+
+<use Chapters/authorvis/screen4.png>
+Package pdftex.def Info: Chapters/authorvis/screen4.png used on input line 28.
+(pdftex.def)             Requested size: 501.0602pt x 169.89072pt.
+
+Overfull \hbox (47.45212pt too wide) in paragraph at lines 28--29
+ [] 
+ []
+
+[120 <C:/Users/Roseric/Documents/PhD proposal/thesisTemplate/easyThesisWriting/
+Chapters/authorvis/screen2.png> <C:/Users/Roseric/Documents/PhD proposal/thesis
+Template/easyThesisWriting/Chapters/authorvis/screen4.png>]
+<Chapters/authorvis/vis3.png, id=1670, 1927.2pt x 1161.33875pt>
+File: Chapters/authorvis/vis3.png Graphic file (type png)
+
+<use Chapters/authorvis/vis3.png>
+Package pdftex.def Info: Chapters/authorvis/vis3.png used on input line 41.
+(pdftex.def)             Requested size: 501.0602pt x 301.94095pt.
+
+Overfull \hbox (47.45212pt too wide) in paragraph at lines 41--42
+ [] 
+ []
+
+[121] [122 <C:/Users/Roseric/Documents/PhD proposal/thesisTemplate/easyThesisWr
+iting/Chapters/authorvis/vis3.png>])
 ("C:\Users\Roseric\Documents\PhD proposal\thesisTemplate\easyThesisWriting\Chap
-ters/Conclusion.tex" [122]) [123
+ters/Conclusion.tex" [123] [124
 
 
-] [124] [125]
+] [125]) [126]
 ------------------------------------------------------------------------------
  Bibliography
 ------------------------------------------------------------------------------
 
 ("C:\Users\Roseric\Documents\PhD proposal\thesisTemplate\easyThesisWriting\Thes
-is.bbl" [126
+is.bbl" [127
 
 
-] [127] [128] [129] [130] [131] [132] [133] [134] [135] [136]
-[137] [138] [139] [140] [141] [142] [143] [144] [145] [146] [147] [148]
-[149] [150])
+] [128] [129] [130] [131] [132] [133] [134] [135] [136] [137]
+[138] [139] [140] [141] [142] [143] [144] [145] [146] [147] [148] [149]
+[150] [151])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 130.
- [151]
+ [152]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 130.
 
 ("C:\Users\Roseric\Documents\PhD proposal\thesisTemplate\easyThesisWriting\Thes
@@ -1680,17 +1718,17 @@ is.aux")
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 130.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 130.
 Package rerunfilecheck Info: File `Thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 811CA85D11982BEC7CDB036EA2E1F4ED;14567.
+(rerunfilecheck)             Checksum: 35CF153B37C377F347ED8517515D373C;14398.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 130.
  ) 
 Here is how much of TeX's memory you used:
- 15958 strings out of 493921
- 245355 string characters out of 3144871
- 340747 words of memory out of 3000000
- 18443 multiletter control sequences out of 15000+200000
+ 15978 strings out of 493921
+ 245869 string characters out of 3144871
+ 342095 words of memory out of 3000000
+ 18456 multiletter control sequences out of 15000+200000
  29611 words of font info for 80 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 49i,14n,45p,13112b,785s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 49i,14n,45p,13112b,781s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Roseric\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi60
 0\ecbx1095.pk> <C:\Users\Roseric\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknap
 pen\ec\dpi600\ecbx1000.pk> <C:\Users\Roseric\AppData\Local\MiKTeX\2.9\fonts\pk\
@@ -1727,9 +1765,9 @@ TeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/MiKTeX
 onts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files (x86)/MiKTeX 2.9/font
 s/type1/public/amsfonts/symbols/msbm10.pfb><C:/Program Files (x86)/MiKTeX 2.9/f
 onts/type1/public/rsfs/rsfs10.pfb>
-Output written on Thesis.pdf (167 pages, 9334650 bytes).
+Output written on Thesis.pdf (168 pages, 9539463 bytes).
 PDF statistics:
- 2801 PDF objects out of 2984 (max. 8388607)
- 453 named destinations out of 1000 (max. 500000)
- 807 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2804 PDF objects out of 2984 (max. 8388607)
+ 456 named destinations out of 1000 (max. 500000)
+ 814 words of extra memory for PDF output out of 10000 (max. 10000000)
 
