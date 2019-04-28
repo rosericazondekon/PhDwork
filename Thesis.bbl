@@ -1,4 +1,4 @@
-\begin{thebibliography}{140}
+\begin{thebibliography}{157}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -234,6 +234,27 @@ Martin~C. Akogb{\'e}to, Rock~Y. A{\"\i}kpon, Roseric Azond{\'e}kon, Gil~G.
 \newblock ISBN 92-4-156406-7.
 \newblock 00010.
 
+\bibitem[{World Health
+  Organization}(2000)]{world_health_organization_economic_2000}
+{World Health Organization}.
+\newblock Economic costs of malaria are many times higher than previously
+  estimated.
+\newblock In \emph{Economic Costs of Malaria Are Many Times Higher than
+  Previously Estimated}. 2000.
+\newblock 00012.
+
+\bibitem[Richter et~al.(2014)Richter, L{\"o}nnroth, Desmond, Jackson,
+  Jaramillo, and Weil]{richter_economic_2014}
+Linda~M. Richter, Knut L{\"o}nnroth, Chris Desmond, Robin Jackson, Ernesto
+  Jaramillo, and Diana Weil.
+\newblock Economic {{Support}} to {{Patients}} in {{HIV}} and {{TB Grants}} in
+  {{Rounds}} 7 and 10 from the {{Global Fund}} to {{Fight AIDS}},
+  {{Tuberculosis}} and {{Malaria}}.
+\newblock \emph{PLoS ONE}, 9\penalty0 (1):\penalty0 e86225, January 2014.
+\newblock ISSN 1932-6203.
+\newblock \doi{10.1371/journal.pone.0086225}.
+\newblock 00015.
+
 \bibitem[Jamison(2006)]{jamison_disease_2006}
 Dean~T Jamison.
 \newblock \emph{Disease and Mortality in Sub-{{Saharan Africa}}}.
@@ -306,34 +327,40 @@ Neel~R. Gandhi, N.~Sarita Shah, Jason~R. Andrews, Venanzio Vella, Anthony~P.
 \newblock \doi{10.1164/rccm.200907-0989OC}.
 \newblock 00248.
 
-\bibitem[{World Health
-  Organization}(2000)]{world_health_organization_economic_2000}
-{World Health Organization}.
-\newblock Economic costs of malaria are many times higher than previously
-  estimated.
-\newblock In \emph{Economic Costs of Malaria Are Many Times Higher than
-  Previously Estimated}. 2000.
-\newblock 00012.
+\bibitem[Ghafouri et~al.(2014)Ghafouri, Mohammadhassanzadeh, Shokraneh,
+  Vakilian, and Farahmand]{ghafouri_social_2014}
+H.B. Ghafouri, H.~Mohammadhassanzadeh, F.~Shokraneh, M.~Vakilian, and
+  S.~Farahmand.
+\newblock Social network analysis of {{Iranian}} researchers on emergency
+  medicine: {{A}} sociogram analysis.
+\newblock \emph{Emergency Medicine Journal}, 31\penalty0 (8):\penalty0
+  619--624, 2014.
+\newblock \doi{10.1136/emermed-2012-201781}.
+\newblock 00008.
 
-\bibitem[Richter et~al.(2014)Richter, L{\"o}nnroth, Desmond, Jackson,
-  Jaramillo, and Weil]{richter_economic_2014}
-Linda~M. Richter, Knut L{\"o}nnroth, Chris Desmond, Robin Jackson, Ernesto
-  Jaramillo, and Diana Weil.
-\newblock Economic {{Support}} to {{Patients}} in {{HIV}} and {{TB Grants}} in
-  {{Rounds}} 7 and 10 from the {{Global Fund}} to {{Fight AIDS}},
-  {{Tuberculosis}} and {{Malaria}}.
-\newblock \emph{PLoS ONE}, 9\penalty0 (1):\penalty0 e86225, January 2014.
-\newblock ISSN 1932-6203.
-\newblock \doi{10.1371/journal.pone.0086225}.
-\newblock 00015.
+\bibitem[Morel et~al.(2009)Morel, Serruya, Penna, and
+  Guimar{\~a}es]{morel_co-authorship_2009}
+Carlos~Medicis Morel, Suzanne~Jacob Serruya, Gerson~Oliveira Penna, and
+  Reinaldo Guimar{\~a}es.
+\newblock Co-authorship {{Network Analysis}}: {{A Powerful Tool}} for
+  {{Strategic Planning}} of {{Research}}, {{Development}} and {{Capacity
+  Building Programs}} on {{Neglected Diseases}}.
+\newblock \emph{PLoS Neglected Tropical Diseases}, 3\penalty0 (8):\penalty0
+  e501, August 2009.
+\newblock ISSN 1935-2735.
+\newblock \doi{10.1371/journal.pntd.0000501}.
+\newblock 00096.
 
-\bibitem[Akukwe(2006)]{akukwe_dont_2006}
-Chinua Akukwe.
-\newblock \emph{Don't {{Let Them Die}}: {{HIV}}/{{AIDS}}, {{Malaria}},
-  {{Tuberculosis}} and the {{Healthcare Crisis}} in {{Africa}}}.
-\newblock {Adonis \& Abbey Pub Limited}, 2006.
-\newblock ISBN 1-905068-24-7.
-\newblock 00005.
+\bibitem[Gonz{\'a}lez-Alcaide et~al.(2012)Gonz{\'a}lez-Alcaide, Park,
+  Huaman{\'\i}, Gasc{\'o}n, and Ramos]{gonzalez-alcaide_scientific_2012}
+Gregorio Gonz{\'a}lez-Alcaide, Jinseo Park, Charles Huaman{\'\i}, Joaqu{\'\i}n
+  Gasc{\'o}n, and Jos{\'e}~Manuel Ramos.
+\newblock Scientific authorships and collaboration network analysis on
+  {{Chagas}} disease: Papers indexed in {{PubMed}} (1940-2009).
+\newblock \emph{Revista do Instituto de Medicina Tropical de S{\~a}o Paulo},
+  54\penalty0 (4):\penalty0 219--228, 2012.
+\newblock ISSN 0036-4665.
+\newblock 00028.
 
 \bibitem[Mbulaiteye et~al.(2011)Mbulaiteye, Bhatia, Adebamowo, and
   Sasco]{mbulaiteye_hiv_2011}
@@ -597,17 +624,6 @@ M.~E.~J. Newman.
 \newblock \doi{10.1073/pnas.0307545100}.
 \newblock 01352.
 
-\bibitem[Gonz{\'a}lez-Alcaide et~al.(2012)Gonz{\'a}lez-Alcaide, Park,
-  Huaman{\'\i}, Gasc{\'o}n, and Ramos]{gonzalez-alcaide_scientific_2012}
-Gregorio Gonz{\'a}lez-Alcaide, Jinseo Park, Charles Huaman{\'\i}, Joaqu{\'\i}n
-  Gasc{\'o}n, and Jos{\'e}~Manuel Ramos.
-\newblock Scientific authorships and collaboration network analysis on
-  {{Chagas}} disease: Papers indexed in {{PubMed}} (1940-2009).
-\newblock \emph{Revista do Instituto de Medicina Tropical de S{\~a}o Paulo},
-  54\penalty0 (4):\penalty0 219--228, 2012.
-\newblock ISSN 0036-4665.
-\newblock 00028.
-
 \bibitem[Newman(2001{\natexlab{b}})]{newman_scientific_2001}
 M.~E.~J. Newman.
 \newblock Scientific collaboration networks. {{I}}. {{Network}} construction
@@ -740,17 +756,6 @@ R.~Aleixandre-Benavent, G.~Gonz{\'a}lez-Alcaide, A.~Alonso-Arroyo,
 \newblock \doi{10.1016/S2173-5085(08)70044-3}.
 \newblock 00003.
 
-\bibitem[Ghafouri et~al.(2014)Ghafouri, Mohammadhassanzadeh, Shokraneh,
-  Vakilian, and Farahmand]{ghafouri_social_2014}
-H.B. Ghafouri, H.~Mohammadhassanzadeh, F.~Shokraneh, M.~Vakilian, and
-  S.~Farahmand.
-\newblock Social network analysis of {{Iranian}} researchers on emergency
-  medicine: {{A}} sociogram analysis.
-\newblock \emph{Emergency Medicine Journal}, 31\penalty0 (8):\penalty0
-  619--624, 2014.
-\newblock \doi{10.1136/emermed-2012-201781}.
-\newblock 00008.
-
 \bibitem[Salamati and Soheili(2016)]{salamati_social_2016}
 P.~Salamati and F.~Soheili.
 \newblock Social network analysis of {{Iranian}} researchers in the field of
@@ -769,18 +774,24 @@ F.~Sadoughi, A.~Valinejadi, M.~Serati~Shirazi, and R.~Khademi.
   204--212, 2016.
 \newblock 00001.
 
-\bibitem[Morel et~al.(2009)Morel, Serruya, Penna, and
-  Guimar{\~a}es]{morel_co-authorship_2009}
-Carlos~Medicis Morel, Suzanne~Jacob Serruya, Gerson~Oliveira Penna, and
-  Reinaldo Guimar{\~a}es.
-\newblock Co-authorship {{Network Analysis}}: {{A Powerful Tool}} for
-  {{Strategic Planning}} of {{Research}}, {{Development}} and {{Capacity
-  Building Programs}} on {{Neglected Diseases}}.
-\newblock \emph{PLoS Neglected Tropical Diseases}, 3\penalty0 (8):\penalty0
-  e501, August 2009.
-\newblock ISSN 1935-2735.
-\newblock \doi{10.1371/journal.pntd.0000501}.
-\newblock 00096.
+\bibitem[Batagelj and Mrvar(2014)]{BatageljPajek2014}
+Vladimir Batagelj and Andrej Mrvar.
+\newblock Pajek.
+\newblock In Reda Alhajj and Jon Rokne, editors, \emph{Encyclopedia of {{Social
+  Network Analysis}} and {{Mining}}}, pages 1245--1256. {Springer New York},
+  New York, NY, 2014.
+\newblock ISBN 978-1-4614-6169-2 978-1-4614-6170-8.
+\newblock \doi{10.1007/978-1-4614-6170-8_310}.
+
+\bibitem[Borgatti et~al.(2014)Borgatti, Everett, and
+  Freeman]{BorgattiUCINET2014}
+Stephen~P. Borgatti, Martin~G. Everett, and Linton~C. Freeman.
+\newblock {{UCINET}}.
+\newblock In Reda Alhajj and Jon Rokne, editors, \emph{Encyclopedia of {{Social
+  Network Analysis}} and {{Mining}}}, pages 2261--2267. {Springer New York},
+  New York, NY, 2014.
+\newblock ISBN 978-1-4614-6169-2 978-1-4614-6170-8.
+\newblock \doi{10.1007/978-1-4614-6170-8_316}.
 
 \bibitem[Zhang(2014)]{zhang_complex_2014}
 Qing Zhang.
@@ -789,6 +800,25 @@ Qing Zhang.
 \newblock PhD thesis, University of Wisconsin-Milwaukee, Milwaukee, WI, USA,
   2014.
 \newblock 00000.
+
+\bibitem[Hall et~al.(2009)Hall, Frank, Holmes, Pfahringer, Reutemann, and
+  Witten]{HallWEKAdatamining2009}
+Mark Hall, Eibe Frank, Geoffrey Holmes, Bernhard Pfahringer, Peter Reutemann,
+  and Ian~H Witten.
+\newblock The {{WEKA}} data mining software: An update.
+\newblock \emph{ACM SIGKDD explorations newsletter}, 11\penalty0 (1):\penalty0
+  10--18, 2009.
+\newblock ISSN 1931-0145.
+
+\bibitem[Pedregosa et~al.(2011)Pedregosa, Varoquaux, Gramfort, Michel, Thirion,
+  Grisel, Blondel, Prettenhofer, Weiss, and
+  Dubourg]{PedregosaScikitlearnMachinelearning2011}
+Fabian Pedregosa, Ga{\"e}l Varoquaux, Alexandre Gramfort, Vincent Michel,
+  Bertrand Thirion, Olivier Grisel, Mathieu Blondel, Peter Prettenhofer, Ron
+  Weiss, and Vincent Dubourg.
+\newblock Scikit-learn: {{Machine}} learning in {{Python}}.
+\newblock \emph{Journal of machine learning research}, 12\penalty0
+  (Oct):\penalty0 2825--2830, 2011.
 
 \bibitem[Oliveira et~al.(2017)Oliveira, Cobre, and
   Ferreira]{oliveira_bayesian_2017}
@@ -800,18 +830,114 @@ Sandra~Cristina Oliveira, Juliana Cobre, and Taiane de~Paula Ferreira.
 \newblock \doi{10.1016/j.socnet.2016.06.005}.
 \newblock 00000.
 
-\bibitem[Peirson et~al.(2016)Peirson, Baker, Subramanian, Singh, and
-  Yalugoti]{peirson_tethne_2016}
-Erick Peirson, Aaron Baker, Ramki Subramanian, Abhishek Singh, and Yogananda
-  Yalugoti.
-\newblock Tethne v0.8, 2016.
+\bibitem[Liu et~al.(2004)Liu, Bollen, Nelson, {Van de Sompel}, Hussell, Luce,
+  and Marks]{liu_toolkits_2004}
+Xiaoming Liu, Johan Bollen, Michael~L. Nelson, Herbert {Van de Sompel}, Jeremy
+  Hussell, Rick Luce, and Linn Marks.
+\newblock Toolkits for visualizing co-authorship graph.
+\newblock page 404. {ACM Press}, 2004.
+\newblock ISBN 978-1-58113-832-0.
+\newblock \doi{10.1145/996350.996470}.
 
-\bibitem[Schult and Swart(2008)]{schult_exploring_2008}
-Daniel~A Schult and P~Swart.
-\newblock Exploring network structure, dynamics, and function using
-  {{NetworkX}}.
-\newblock volume 2008, pages 11--16, 2008.
-\newblock 01142.
+\bibitem[Barbosa et~al.(2012)Barbosa, Moro, Lopes, and {de
+  Oliveira}]{barbosa_vrrc:_2012}
+Eduardo~M. Barbosa, Mirella~M. Moro, Giseli~Rabello Lopes, and J.~Palazzo~M.
+  {de Oliveira}.
+\newblock {{VRRC}}: Web based tool for visualization and recommendation on
+  co-authorship network (abstract only).
+\newblock page 865. {ACM Press}, 2012.
+\newblock ISBN 978-1-4503-1247-9.
+\newblock \doi{10.1145/2213836.2213975}.
+
+\bibitem[Odoni et~al.(13-15 March 2017)Odoni, Semar, and
+  Mastrandrea]{odoni_visualisation_2017}
+Fabian Odoni, Wolfgang Semar, and Elena Mastrandrea.
+\newblock Visualisation of {{Collaboration}} in {{Social Collaborative
+  Knowledge Management Systems}}.
+\newblock In \emph{Understanding {{Information Spaces}}. {{Proceedings}} of the
+  15th {{International Symposium}} of {{Information Science}} ({{ISI}} 2017)},
+  pages 386--388, Berlin, 13-15 March 2017.
+
+\bibitem[Grinberg(2014)]{grinberg_flask_2014}
+Miguel Grinberg.
+\newblock \emph{Flask Web Development: Developing Web Applications with
+  Python}.
+\newblock {" O'Reilly Media, Inc."}, 2014.
+\newblock ISBN 1-4919-4761-6.
+
+\bibitem[Bostock(2012)]{bostock_d3._2012}
+Michael Bostock.
+\newblock D3. js.
+\newblock \emph{Data Driven Documents}, 492:\penalty0 701, 2012.
+
+\bibitem[Nakazono et~al.(2006)Nakazono, Misue, and Tanaka]{nakazono_nel_2006}
+Nagayoshi Nakazono, Kazuo Misue, and Jiro Tanaka.
+\newblock {{NeL}} 2: Network drawing tool for handling layered structured
+  network diagram.
+\newblock pages 109--115. {Australian Computer Society, Inc.}, 2006.
+\newblock ISBN 1-920682-41-4.
+
+\bibitem[Toyoda and Kitsuregawa(2005)]{toyoda_system_2005}
+Masashi Toyoda and Masaru Kitsuregawa.
+\newblock A system for visualizing and analyzing the evolution of the web with
+  a time series of graphs.
+\newblock pages 151--160. {ACM}, 2005.
+\newblock ISBN 1-59593-168-6.
+
+\bibitem[Chen and Carr(1999)]{chen_visualizing_1999}
+Chaomei Chen and Leslie Carr.
+\newblock Visualizing the evolution of a subject domain: A case study.
+\newblock pages 449--452. {IEEE Computer Society Press}, 1999.
+\newblock ISBN 0-7803-5897-X.
+
+\bibitem[Erten et~al.(2005)Erten, Kobourov, Le, and
+  Navabi]{erten_simultaneous_2005}
+Cesim Erten, Stephen~G Kobourov, Vu~Le, and Armand Navabi.
+\newblock Simultaneous {{Graph Drawing}}: {{Layout Algorithms}} and
+  {{Visualization Schemes}}.
+\newblock \emph{J. Graph ALgorithms Appl.}, 9\penalty0 (1):\penalty0 165--182,
+  2005.
+
+\bibitem[Han et~al.(2005)Han, Zha, and Giles]{HanNamedisambiguationauthor2005}
+Hui Han, Hongyuan Zha, and C.~Lee Giles.
+\newblock Name disambiguation in author citations using a {{K}}-way spectral
+  clustering method.
+\newblock page 334. {ACM Press}, 2005.
+\newblock ISBN 978-1-58113-876-4.
+\newblock \doi{10.1145/1065385.1065462}.
+
+\bibitem[Torvik and Smalheiser(2009)]{TorvikAuthornamedisambiguation2009}
+Vetle~I. Torvik and Neil~R. Smalheiser.
+\newblock Author name disambiguation in {{MEDLINE}}.
+\newblock \emph{ACM Transactions on Knowledge Discovery from Data}, 3\penalty0
+  (3):\penalty0 1--29, July 2009.
+\newblock ISSN 15564681.
+\newblock \doi{10.1145/1552303.1552304}.
+
+\bibitem[DeRose et~al.(2007)DeRose, Shen, Chen, Lee, Burdick, Doan, and
+  Ramakrishnan]{DeRoseDBLifecommunityinformation2007}
+Pedro DeRose, Warren Shen, Fei Chen, Yoonkyong Lee, Douglas Burdick, AnHai
+  Doan, and Raghu Ramakrishnan.
+\newblock {{DBLife}}: {{A}} community information management platform for the
+  database research community.
+\newblock pages 169--172, 2007.
+
+\bibitem[Haak et~al.(2012)Haak, Fenner, Paglione, Pentz, and
+  Ratner]{HaakORCIDsystemuniquely2012}
+Laurel~L. Haak, Martin Fenner, Laura Paglione, Ed~Pentz, and Howard Ratner.
+\newblock {{ORCID}}: A system to uniquely identify researchers.
+\newblock \emph{Learned Publishing}, 25\penalty0 (4):\penalty0 259--264,
+  October 2012.
+\newblock ISSN 09531513, 17414857.
+\newblock \doi{10.1087/20120404}.
+
+\bibitem[Smalheiser and Torvik(2009)]{SmalheiserAuthornamedisambiguation2009}
+Neil~R. Smalheiser and Vetle~I. Torvik.
+\newblock Author name disambiguation.
+\newblock \emph{Annual Review of Information Science and Technology},
+  43\penalty0 (1):\penalty0 1--43, 2009.
+\newblock ISSN 00664200.
+\newblock \doi{10.1002/aris.2009.1440430113}.
 
 \bibitem[Ferreira et~al.(2012)Ferreira, Gon{\c c}alves, and
   Laender]{ferreira_brief_2012}
@@ -981,6 +1107,69 @@ Philip Leifeld, Skyler~J Cranmer, and Bruce~A Desmarais.
 \newblock \emph{Journal of Statistical Software}, 2015.
 \newblock 00000.
 
+\bibitem[Schult and Swart(2008)]{schult_exploring_2008}
+Daniel~A Schult and P~Swart.
+\newblock Exploring network structure, dynamics, and function using
+  {{NetworkX}}.
+\newblock volume 2008, pages 11--16, 2008.
+\newblock 01142.
+
+\bibitem[Daudin et~al.(2008)Daudin, Picard, and
+  Robin]{Daudinmixturemodelrandom2008}
+J.-J. Daudin, F.~Picard, and S.~Robin.
+\newblock A mixture model for random graphs.
+\newblock \emph{Statistics and Computing}, 18\penalty0 (2):\penalty0 173--183,
+  June 2008.
+\newblock ISSN 0960-3174, 1573-1375.
+\newblock \doi{10.1007/s11222-007-9046-7}.
+
+\bibitem[Zanghi et~al.(2008)Zanghi, Ambroise, and
+  Miele]{ZanghiFastonlinegraph2008}
+Hugo Zanghi, Christophe Ambroise, and Vincent Miele.
+\newblock Fast online graph clustering via {{Erd{\H
+  o}s}}\textendash{}{{R{\'e}nyi}} mixture.
+\newblock \emph{Pattern Recognition}, 41\penalty0 (12):\penalty0 3592--3599,
+  December 2008.
+\newblock ISSN 00313203.
+\newblock \doi{10.1016/j.patcog.2008.06.019}.
+
+\bibitem[Zanghi et~al.(2010)Zanghi, Picard, Miele, and
+  Ambroise]{ZanghiStrategiesonlineinference2010}
+Hugo Zanghi, Franck Picard, Vincent Miele, and Christophe Ambroise.
+\newblock Strategies for online inference of model-based clustering in large
+  and growing networks.
+\newblock \emph{The Annals of Applied Statistics}, 4\penalty0 (2):\penalty0
+  687--714, June 2010.
+\newblock ISSN 1932-6157.
+\newblock \doi{10.1214/10-AOAS359}.
+
+\bibitem[Latouche et~al.(2012)Latouche, Birmel{\'e}, and
+  Ambroise]{LatoucheVariationalBayesianinference2012}
+P~Latouche, E~Birmel{\'e}, and C~Ambroise.
+\newblock Variational {{Bayesian}} inference and complexity control for
+  stochastic block models.
+\newblock \emph{Statistical Modelling: An International Journal}, 12\penalty0
+  (1):\penalty0 93--115, February 2012.
+\newblock ISSN 1471-082X, 1477-0342.
+\newblock \doi{10.1177/1471082X1001200105}.
+
+\bibitem[Handcock et~al.(2003{\natexlab{a}})Handcock, Hunter, Butts, Goodreau,
+  and Morris]{HandcockERGMFitsimulate2003}
+MS~Handcock, DR~Hunter, CT~Butts, SM~Goodreau, and M~Morris.
+\newblock {{ERGM}}: {{Fit}}, simulate and diagnose exponential-family models
+  for networks, {{Version}} 2.1.
+\newblock \emph{URL: http://statnetproject. org}, 2003{\natexlab{a}}.
+
+\bibitem[Hunter et~al.(2008{\natexlab{a}})Hunter, Handcock, Butts, Goodreau,
+  and Morris]{HunterergmPackageFit2008}
+David~R. Hunter, Mark~S. Handcock, Carter~T. Butts, Steven~M. Goodreau, and
+  Martina Morris.
+\newblock Ergm: {{A Package}} to {{Fit}}, {{Simulate}} and {{Diagnose
+  Exponential}}-{{Family Models}} for {{Networks}}.
+\newblock \emph{Journal of Statistical Software}, 24\penalty0 (3):\penalty0
+  nihpa54860, May 2008{\natexlab{a}}.
+\newblock ISSN 1548-7660.
+
 \bibitem[Desmarais and Cranmer(2012)]{desmarais_micro-level_2012}
 Bruce~A. Desmarais and Skyler~J. Cranmer.
 \newblock Micro-{{Level Interpretation}} of {{Exponential Random Graph Models}}
@@ -1003,6 +1192,21 @@ Peter Hoff.
   symmetric relational data.
 \newblock \emph{R package version}, 1, 2012.
 
+\bibitem[Sing et~al.(2005)Sing, Sander, Beerenwinkel, and
+  Lengauer]{SingROCRvisualizingclassifier2005}
+T.~Sing, O.~Sander, N.~Beerenwinkel, and T.~Lengauer.
+\newblock {{ROCR}}: Visualizing classifier performance in {{R}}.
+\newblock \emph{Bioinformatics}, 21\penalty0 (20):\penalty0 3940--3941, October
+  2005.
+\newblock ISSN 1367-4803, 1460-2059.
+\newblock \doi{10.1093/bioinformatics/bti623}.
+
+\bibitem[Handcock et~al.(2003{\natexlab{b}})Handcock, Robins, Snijders, Moody,
+  and Besag]{handcock_assessing_2003}
+Mark~S Handcock, Garry Robins, Tom~AB Snijders, Jim Moody, and Julian Besag.
+\newblock Assessing degeneracy in statistical models of social networks.
+\newblock Technical report, Citeseer, 2003{\natexlab{b}}.
+
 \bibitem[Alonso et~al.(2011)Alonso, Brown, Arevalo-Herrera, Binka, Chitnis,
   Collins, Doumbo, Greenwood, Hall, and Levine]{alonso_research_2011}
 Pedro~L Alonso, Graham Brown, Myriam Arevalo-Herrera, Fred Binka, Chetan
@@ -1012,12 +1216,6 @@ Pedro~L Alonso, Graham Brown, Myriam Arevalo-Herrera, Fred Binka, Chetan
 \newblock \emph{PLoS Med}, 8\penalty0 (1):\penalty0 e1000406, 2011.
 \newblock ISSN 1549-1676.
 \newblock 00409.
-
-\bibitem[Handcock et~al.(2003)Handcock, Robins, Snijders, Moody, and
-  Besag]{handcock_assessing_2003}
-Mark~S Handcock, Garry Robins, Tom~AB Snijders, Jim Moody, and Julian Besag.
-\newblock Assessing degeneracy in statistical models of social networks.
-\newblock Technical report, Citeseer, 2003.
 
 \bibitem[Breman(2009)]{breman_eradicating_2009}
 Joel~G Breman.
@@ -1119,12 +1317,12 @@ Olga Kornienko, Katherine~H Clemans, Doroth{\'e}e Out, and Douglas~A Granger.
   2014.
 \newblock ISSN 0018-506X.
 
-\bibitem[Hunter et~al.(2008)Hunter, Goodreau, and
+\bibitem[Hunter et~al.(2008{\natexlab{b}})Hunter, Goodreau, and
   Handcock]{hunter_goodness_2008}
 David~R Hunter, Steven~M Goodreau, and Mark~S Handcock.
 \newblock Goodness of {{Fit}} of {{Social Network Models}}.
 \newblock \emph{Journal of the American Statistical Association}, 103\penalty0
-  (481):\penalty0 248--258, March 2008.
+  (481):\penalty0 248--258, March 2008{\natexlab{b}}.
 \newblock ISSN 0162-1459, 1537-274X.
 \newblock \doi{10.1198/016214507000000446}.
 
@@ -1146,78 +1344,12 @@ Caroline~S Wagner, Irene Brahmakulam, Brian Jackson, Anny Wong, and Tatsuro
 \newblock Technical report, RAND CORP SANTA MONICA CA, 2001.
 
 \bibitem[{World Health
-  Organization}(2016{\natexlab{a}})]{world_health_organization_global_2016}
-{World Health Organization}.
-\newblock Global tuberculosis report 2016.
-\newblock 2016{\natexlab{a}}.
-\newblock ISSN 924156539X.
-
-\bibitem[{World Health Organization}(2013)]{world_health_organization_mdg_2013}
-{World Health Organization}.
-\newblock {{MDG}} 6: Combat {{HIV}}/{{AIDS}}, malaria and other diseases.
-\newblock \emph{Updated February}, 2013.
-
-\bibitem[Falzon et~al.(2017)Falzon, Sch{\"u}nemann, Harausz,
-  Gonz{\'a}lez-Angulo, Lienhardt, Jaramillo, and Weyer]{falzon_world_2017}
-Dennis Falzon, Holger~J Sch{\"u}nemann, Elizabeth Harausz, Lic{\'e}
-  Gonz{\'a}lez-Angulo, Christian Lienhardt, Ernesto Jaramillo, and Karin Weyer.
-\newblock World {{Health Organization}} treatment guidelines for drug-resistant
-  tuberculosis, 2016 update.
-\newblock \emph{European Respiratory Journal}, 49\penalty0 (3):\penalty0
-  1602308, 2017.
-\newblock ISSN 0903-1936.
-
-\bibitem[Lynch(2013)]{lynch_multidrug-resistant_2013}
-John~B Lynch.
-\newblock Multidrug-resistant tuberculosis.
-\newblock \emph{Medical Clinics}, 97\penalty0 (4):\penalty0 553--579, 2013.
-\newblock ISSN 0025-7125.
-
-\bibitem[Scott(2017)]{scott_social_2017}
-John Scott.
-\newblock \emph{Social Network Analysis}.
-\newblock {Sage}, 2017.
-\newblock ISBN 1-5264-1225-X.
-
-\bibitem[Uddin et~al.(2012)Uddin, Hossain, Abbasi, and
-  Rasmussen]{uddin_trend_2012}
-Shahadat Uddin, Liaquat Hossain, Alireza Abbasi, and Kim Rasmussen.
-\newblock Trend and efficiency analysis of co-authorship network.
-\newblock \emph{Scientometrics}, 90\penalty0 (2):\penalty0 687--699, 2012.
-\newblock ISSN 0138-9130.
-
-\bibitem[{World Health
-  Organization}(2016{\natexlab{b}})]{world_health_organization_atlas_2016}
+  Organization}(2016)]{world_health_organization_atlas_2016}
 {World Health Organization}.
 \newblock Atlas of {{African Health Statistics}} 2016: Health situation
   analysis of the {{African Region}}.
-\newblock 2016{\natexlab{b}}.
+\newblock 2016.
 \newblock ISSN 9290232919.
-
-\bibitem[Nakazono et~al.(2006)Nakazono, Misue, and Tanaka]{nakazono_nel_2006}
-Nagayoshi Nakazono, Kazuo Misue, and Jiro Tanaka.
-\newblock {{NeL}} 2: Network drawing tool for handling layered structured
-  network diagram.
-\newblock pages 109--115. {Australian Computer Society, Inc.}, 2006.
-\newblock ISBN 1-920682-41-4.
-
-\bibitem[Odoni et~al.(13-15 March 2017)Odoni, Semar, and
-  Mastrandrea]{odoni_visualisation_2017}
-Fabian Odoni, Wolfgang Semar, and Elena Mastrandrea.
-\newblock Visualisation of {{Collaboration}} in {{Social Collaborative
-  Knowledge Management Systems}}.
-\newblock In \emph{Understanding {{Information Spaces}}. {{Proceedings}} of the
-  15th {{International Symposium}} of {{Information Science}} ({{ISI}} 2017)},
-  pages 386--388, Berlin, 13-15 March 2017.
-
-\bibitem[Liu et~al.(2004)Liu, Bollen, Nelson, {Van de Sompel}, Hussell, Luce,
-  and Marks]{liu_toolkits_2004}
-Xiaoming Liu, Johan Bollen, Michael~L. Nelson, Herbert {Van de Sompel}, Jeremy
-  Hussell, Rick Luce, and Linn Marks.
-\newblock Toolkits for visualizing co-authorship graph.
-\newblock page 404. {ACM Press}, 2004.
-\newblock ISBN 978-1-58113-832-0.
-\newblock \doi{10.1145/996350.996470}.
 
 \bibitem[Horak et~al.(2011)Horak, Kudelka, Snasel, Abraham, and
   Rezankova]{horak_forcoa.net:_2011}
@@ -1228,60 +1360,11 @@ Zdenek Horak, Milos Kudelka, Vaclav Snasel, Ajith Abraham, and Hana Rezankova.
 \newblock ISBN 978-1-4577-1133-6 978-1-4577-1132-9 978-1-4577-1131-2.
 \newblock \doi{10.1109/CASON.2011.6085955}.
 
-\bibitem[Barbosa et~al.(2012)Barbosa, Moro, Lopes, and {de
-  Oliveira}]{barbosa_vrrc:_2012}
-Eduardo~M. Barbosa, Mirella~M. Moro, Giseli~Rabello Lopes, and J.~Palazzo~M.
-  {de Oliveira}.
-\newblock {{VRRC}}: Web based tool for visualization and recommendation on
-  co-authorship network (abstract only).
-\newblock page 865. {ACM Press}, 2012.
-\newblock ISBN 978-1-4503-1247-9.
-\newblock \doi{10.1145/2213836.2213975}.
-
-\bibitem[Grinberg(2014)]{grinberg_flask_2014}
-Miguel Grinberg.
-\newblock \emph{Flask Web Development: Developing Web Applications with
-  Python}.
-\newblock {" O'Reilly Media, Inc."}, 2014.
-\newblock ISBN 1-4919-4761-6.
-
-\bibitem[Bostock(2012)]{bostock_d3._2012}
-Michael Bostock.
-\newblock D3. js.
-\newblock \emph{Data Driven Documents}, 492:\penalty0 701, 2012.
-
-\bibitem[Toyoda and Kitsuregawa(2005)]{toyoda_system_2005}
-Masashi Toyoda and Masaru Kitsuregawa.
-\newblock A system for visualizing and analyzing the evolution of the web with
-  a time series of graphs.
-\newblock pages 151--160. {ACM}, 2005.
-\newblock ISBN 1-59593-168-6.
-
-\bibitem[Chen and Carr(1999)]{chen_visualizing_1999}
-Chaomei Chen and Leslie Carr.
-\newblock Visualizing the evolution of a subject domain: A case study.
-\newblock pages 449--452. {IEEE Computer Society Press}, 1999.
-\newblock ISBN 0-7803-5897-X.
-
-\bibitem[Erten et~al.(2005)Erten, Kobourov, Le, and
-  Navabi]{erten_simultaneous_2005}
-Cesim Erten, Stephen~G Kobourov, Vu~Le, and Armand Navabi.
-\newblock Simultaneous {{Graph Drawing}}: {{Layout Algorithms}} and
-  {{Visualization Schemes}}.
-\newblock \emph{J. Graph ALgorithms Appl.}, 9\penalty0 (1):\penalty0 165--182,
-  2005.
-
 \bibitem[Csardi and Nepusz(2006)]{csardi_igraph_2006}
 Gabor Csardi and Tamas Nepusz.
 \newblock The igraph software package for complex network research.
 \newblock \emph{InterJournal, Complex Systems}, 1695\penalty0 (5):\penalty0
   1--9, 2006.
-
-\bibitem[Newman(2008)]{newman_physics_2008}
-Mark Newman.
-\newblock The physics of networks.
-\newblock \emph{Physics today}, 61\penalty0 (11):\penalty0 33--38, 2008.
-\newblock ISSN 0031-9228.
 
 \bibitem[Chang et~al.(2017)Chang, Cheng, Allaire, Xie, and
   McPherson]{chang_shiny:_2017}
@@ -1296,6 +1379,19 @@ W~Chang and {Barbara Borges Ribeiro}.
 \newblock Shinydashboard: {{Create Dashboards}} with `{{Shiny}}'.
 \newblock \emph{R package version 0.5}, 1, 2015.
 
+\bibitem[Wilson(2018)]{WilsonNodejsRight2018}
+Jim Wilson.
+\newblock \emph{Node. Js 8 the {{Right Way}}: {{Practical}}, {{Server}}-Side
+  {{Javascript}} That {{Scales}}}.
+\newblock {Pragmatic Bookshelf}, 2018.
+\newblock ISBN 1-68050-536-X.
+
+\bibitem[Newman(2008)]{newman_physics_2008}
+Mark Newman.
+\newblock The physics of networks.
+\newblock \emph{Physics today}, 61\penalty0 (11):\penalty0 33--38, 2008.
+\newblock ISSN 0031-9228.
+
 \bibitem[Falagas et~al.(2007)Falagas, Pitsouni, Malietzis, and
   Pappas]{falagas_comparison_2007}
 M.~E. Falagas, E.~I. Pitsouni, G.~A. Malietzis, and G.~Pappas.
@@ -1307,14 +1403,82 @@ M.~E. Falagas, E.~I. Pitsouni, G.~A. Malietzis, and G.~Pappas.
 \newblock \doi{10.1096/fj.07-9492LSF}.
 \newblock 00997.
 
-\bibitem[Matias and Miele(2016)]{matias_statistical_2016}
-Catherine Matias and Vincent Miele.
-\newblock Statistical clustering of temporal networks through a dynamic
-  stochastic block model.
-\newblock \emph{Journal of the Royal Statistical Society: Series B (Statistical
-  Methodology)}, August 2016.
-\newblock ISSN 13697412.
-\newblock \doi{10.1111/rssb.12200}.
-\newblock 00018.
+\bibitem[Lynall et~al.(2010)Lynall, Bassett, Kerwin, McKenna, Kitzbichler,
+  Muller, and Bullmore]{LynallFunctionalConnectivityBrain2010}
+M.-E. Lynall, D.~S. Bassett, R.~Kerwin, P.~J. McKenna, M.~Kitzbichler,
+  U.~Muller, and E.~Bullmore.
+\newblock Functional {{Connectivity}} and {{Brain Networks}} in
+  {{Schizophrenia}}.
+\newblock \emph{Journal of Neuroscience}, 30\penalty0 (28):\penalty0
+  9477--9487, July 2010.
+\newblock ISSN 0270-6474, 1529-2401.
+\newblock \doi{10.1523/JNEUROSCI.0333-10.2010}.
+
+\bibitem[Grefkes and Fink(2011)]{GrefkesReorganizationcerebralnetworks2011}
+C.~Grefkes and G.~R. Fink.
+\newblock Reorganization of cerebral networks after stroke: New insights from
+  neuroimaging with connectivity approaches.
+\newblock \emph{Brain}, 134\penalty0 (5):\penalty0 1264--1276, May 2011.
+\newblock ISSN 0006-8950, 1460-2156.
+\newblock \doi{10.1093/brain/awr033}.
+
+\bibitem[Tijms et~al.(2013)Tijms, Wink, {de Haan}, {van der Flier}, Stam,
+  Scheltens, and Barkhof]{TijmsAlzheimerdiseaseconnecting2013}
+Betty~M. Tijms, Alle~Meije Wink, Willem {de Haan}, Wiesje~M. {van der Flier},
+  Cornelis~J. Stam, Philip Scheltens, and Frederik Barkhof.
+\newblock Alzheimer's disease: Connecting findings from graph theoretical
+  studies of brain networks.
+\newblock \emph{Neurobiology of Aging}, 34\penalty0 (8):\penalty0 2023--2036,
+  August 2013.
+\newblock ISSN 01974580.
+\newblock \doi{10.1016/j.neurobiolaging.2013.02.020}.
+
+\bibitem[Simpson et~al.(2011)Simpson, Hayasaka, and
+  Laurienti]{SimpsonExponentialRandomGraph2011}
+Sean~L. Simpson, Satoru Hayasaka, and Paul~J. Laurienti.
+\newblock Exponential {{Random Graph Modeling}} for {{Complex Brain Networks}}.
+\newblock \emph{PLoS ONE}, 6\penalty0 (5):\penalty0 e20039, May 2011.
+\newblock ISSN 1932-6203.
+\newblock \doi{10.1371/journal.pone.0020039}.
+
+\bibitem[Forero and Fallani(2017)]{Forerostatisticalmodelbrain2017}
+Catalina~Obando Forero and Fabrizio De~Vico Fallani.
+\newblock A statistical model for brain networks inferred from large-scale
+  electrophysiological signals.
+\newblock 2017.
+
+\bibitem[Forero and Fallani(2015)]{ForeroGraphModelsBrain2015}
+Catalina~Obando Forero and Fabrizio De~Vico Fallani.
+\newblock Graph {{Models}} of {{Brain Connectivity Networks}}.
+\newblock 2015.
+
+\bibitem[De~Vico~Fallani et~al.(2014)De~Vico~Fallani, Richiardi, Chavez, and
+  Achard]{DeVicoFallaniGraphanalysisfunctional2014}
+F.~De~Vico~Fallani, J.~Richiardi, M.~Chavez, and S.~Achard.
+\newblock Graph analysis of functional brain networks: Practical issues in
+  translational neuroscience.
+\newblock \emph{Philosophical Transactions of the Royal Society B: Biological
+  Sciences}, 369\penalty0 (1653):\penalty0 20130521--20130521, September 2014.
+\newblock ISSN 0962-8436, 1471-2970.
+\newblock \doi{10.1098/rstb.2013.0521}.
+
+\bibitem[Wang et~al.(2013)Wang, Pattison, and
+  Robins]{WangExponentialrandomgraph2013}
+Peng Wang, Philippa Pattison, and Garry Robins.
+\newblock Exponential random graph model specifications for bipartite
+  networks\textemdash{}{{A}} dependence hierarchy.
+\newblock \emph{Social Networks}, 35\penalty0 (2):\penalty0 211--222, May 2013.
+\newblock ISSN 03788733.
+\newblock \doi{10.1016/j.socnet.2011.12.004}.
+
+\bibitem[Sinke et~al.(2016)Sinke, Dijkhuizen, Caimo, Stam, and
+  Otte]{SinkeBayesianexponentialrandom2016}
+Michel~R.T. Sinke, Rick~M. Dijkhuizen, Alberto Caimo, Cornelis~J. Stam, and
+  Willem~M. Otte.
+\newblock Bayesian exponential random graph modeling of whole-brain structural
+  networks across lifespan.
+\newblock \emph{NeuroImage}, 135:\penalty0 79--91, July 2016.
+\newblock ISSN 10538119.
+\newblock \doi{10.1016/j.neuroimage.2016.04.066}.
 
 \end{thebibliography}

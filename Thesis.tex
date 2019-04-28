@@ -49,12 +49,14 @@
 \input{Frontpages/Fixed/Title}
 
 \input{Frontpages/Abstract}
+
+\input{Frontpages/Copyright}
 %\pagebreak
 %\input{Frontpages/FunnyQuotePage.tex}
 
 %\input{Frontpages/DeclarationPage.tex}
 
-\input{Frontpages/Acknowledgements.tex}
+\input{Frontpages/Dedication.tex}
 
 \input{Frontpages/Fixed/TableOfContents.tex}
 
@@ -64,11 +66,12 @@
 
 \input{Frontpages/Abbreviations.tex}
 
+\input{Frontpages/Acknowledgements.tex}
+
 %\input{Frontpages/PhysicalConstants.tex}
 
 %\input{Frontpages/Symbols.tex}
 
-\input{Frontpages/Dedication.tex}
 
 
 \pagebreak
@@ -87,30 +90,20 @@
 
 \input{Chapters/Chapter1} % Literature Review
 
-\input{Chapters/Chapter2} % Methodology
+\input{Chapters/Chapter2} % Background on Network Analysis
 
-\input{Chapters/Chapter3} % Malaria Co-authorship Network
+\input{Chapters/Chapter3} % Methodology
 
-\input{Chapters/Chapter4} % HIV/AIDS Co-authorship Network
+\input{Chapters/Chapter4} % Malaria Co-authorship Network
 
-\input{Chapters/Chapter5} % TB Co-authorship Network
+\input{Chapters/Chapter5} % HIV/AIDS Co-authorship Network
 
-\input{Chapters/Chapter6} % Link Prediction & Authorship Prediction Tool Development
+\input{Chapters/Chapter6} % TB Co-authorship Network
+
+\input{Chapters/Chapter7} % Link Prediction & Authorship Prediction Tool Development
 
 \input{Chapters/Conclusion} % Conclusion
 
-
-
-%% Appendices -----------------------------------------------------
-%\addtocontents{toc}{\vspace{2em}} % Add a gap in the Contents, for aesthetics
-%\lhead{\emph{Appendices}}  % Change the left side page header to "Appendices"
-%\appendix % Cue to tell LaTeX that the following 'chapters' are Appendices
-
-%\input{Appendices/AppendixA} % Appendix Title
-
-%\input{Appendices/AppendixB} % Appendix Title
-
-%\input{Appendices/AppendixC} % Appendix Title
 
 
 %% Bibliography ---------------------------------------------------
@@ -126,6 +119,25 @@
     \bibliography{bibliography}  % The references (bibliography) information are stored in the file named "Bibliography.bib"
 \endgroup 
 
+%% Appendices -----------------------------------------------------
+%\addtocontents{toc}{\vspace{2em}} % Add a gap in the Contents, for aesthetics
+%\lhead{\emph{Appendices}}  % Change the left side page header to "Appendices"
+%\appendix % Cue to tell LaTeX that the following 'chapters' are Appendices
+
+\input{Appendices/AppendixA} % Appendix Title
+
+%\input{Appendices/AppendixB} % Appendix Title
+
+%\input{Appendices/AppendixC} % Appendix Title
+
+\pagebreak
+\pagestyle{plain}
+%\lhead{\emph{Curriculum Vitae}}
+\cfoot{\thepage}
+\setboolean{@twoside}{false}
+\addtotoc{Curriculum Vitae}
+\includepdf[pages=-,offset=75 -75,pagecommand={}]{Files/CV.pdf}
+%\includepdf[pages=-,offset=75 -75,pagecommand={},addtotoc={157,toc,1,Curriculum Vitae,cv}]{Files/CV.pdf}
 
 \end{document}  % The End
 %% ----------------------------------------------------------------

@@ -240,20 +240,20 @@
   \thispagestyle{empty}
   %\null\vfil
   \begin{center}
-    \setlength{\parskip}{0pt}
+    %\setlength{\parskip}{0pt}
     %{\normalsize \UNIVNAME \par}
     %\bigskip
-    {\Large{\textbf{ABSTRACT}} \par}
+    %{\Large{\textbf{ABSTRACT}} \par}
     %\bigskip
     %{\normalsize \facname \par}
     %{\normalsize \deptname \par}
-    \bigskip     
+    %\bigskip     
     %{\normalsize \myDegree \par}
     %\bigskip
-    {\normalsize\bf \@title \par}
-    \medskip
+    %{\normalsize\bf \@title \par}
+    %\medskip
     %{\normalsize by \authornames \par}
-    \bigskip
+    %\bigskip
   \end{center}
 }
 {
@@ -266,9 +266,9 @@
 \newcommand\addtotoc[1]{
 \refstepcounter{dummy}
 \addcontentsline{toc}{chapter}{#1}}
-%\renewcommand\contentsname{Table of Contents}
+\renewcommand\contentsname{TABLE OF CONTENTS}
 \renewcommand\tableofcontents{
-\btypeout{Table of Contents}
+\btypeout{TABLE OF CONTENTS}
 \begin{spacing}{1}{
     \setlength{\parskip}{2pt}
     \if@twocolumn
@@ -294,7 +294,7 @@
     \else
       \@restonecolfalse
     \fi
-    \chapter*{\begin{center}\listfigurename\end{center}
+    \chapter*{\begin{center} \MakeUppercase\listfigurename\end{center}
       \@mkboth{\MakeUppercase\listfigurename}
               {\MakeUppercase\listfigurename}}
     \@starttoc{lof}
@@ -312,7 +312,7 @@
     \else
       \@restonecolfalse
     \fi
-    \chapter*{\begin{center}\listtablename\end{center}
+    \chapter*{\begin{center} \MakeUppercase\listtablename\end{center}
       \@mkboth{
           \MakeUppercase\listtablename}{\MakeUppercase\listtablename}}
     \@starttoc{lot}
@@ -320,12 +320,12 @@
     \cleardoublepage
 }\end{spacing}
 }
-\newcommand\listsymbolname{Abbreviations}
+\newcommand\listsymbolname{List of Abbreviations}
 \usepackage{longtable}
 \newcommand\listofsymbols[2]{
 \btypeout{\listsymbolname}
 \addtotoc{\listsymbolname}
-    \chapter*{\begin{center}\listsymbolname\end{center}
+    \chapter*{\begin{center}\MakeUppercase\listsymbolname\end{center}
       \@mkboth{
           \MakeUppercase\listsymbolname}{\MakeUppercase\listsymbolname}}
 \begin{longtable}[c]{#1}#2\end{longtable}\par
@@ -357,7 +357,7 @@
 \btypeout{Acknowledgements}
 \addtotoc{Acknowledgements}
 \thispagestyle{plain}
-\begin{center}{\huge{\textit{Acknowledgements}} \par}\end{center}
+\begin{center}{\huge{\textbf{ACKNOWLEDGEMENTS}} \par}\end{center}
 {\normalsize #1}
 \vfil\vfil\null
 

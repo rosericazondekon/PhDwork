@@ -1,74 +1,87 @@
-\contentsline {chapter}{Abstract}{i}{dummy.1}
-\vspace {1em}
-\contentsline {chapter}{Acknowledgements}{ii}{dummy.2}
-\vspace {1em}
-\contentsline {chapter}{List of Figures}{vi}{dummy.4}
-\contentsline {chapter}{List of Tables}{xi}{dummy.6}
-\contentsline {chapter}{Abbreviations}{xiii}{dummy.8}
 \vspace {2em}
-\contentsline {chapter}{General Introduction}{1}{chapter*.11}
-\contentsline {chapter}{\numberline {1}Literature Review}{5}{chapter.12}
-\contentsline {section}{\numberline {1.1}Brief Overview of Malaria, Tuberculosis and HIV/AIDS}{5}{section.13}
-\contentsline {section}{\numberline {1.2}Network Analysis of Scientific Research collaboration}{9}{section.14}
-\contentsline {section}{\numberline {1.3}General and specific Objectives}{17}{section.15}
-\contentsline {section}{\numberline {1.4}Gap in the literature}{19}{section.21}
-\contentsline {chapter}{\numberline {2}Methodology}{20}{chapter.22}
-\contentsline {section}{\numberline {2.1}Overview}{20}{section.23}
-\contentsline {section}{\numberline {2.2}Data Collection}{21}{section.24}
-\contentsline {subsection}{\numberline {2.2.1}Text Mining and Network generation}{21}{subsection.25}
-\contentsline {subsection}{\numberline {2.2.2}Author Name Disambiguation}{22}{subsection.26}
-\contentsline {section}{\numberline {2.3}Descriptive Data Analysis}{23}{section.27}
-\contentsline {subsection}{\numberline {2.3.1}Characterizing Network cohesion}{25}{subsection.31}
-\contentsline {section}{\numberline {2.4}Modeling of Network Data}{27}{section.34}
-\contentsline {subsection}{\numberline {2.4.1}Mathematical Modeling}{27}{subsection.36}
-\contentsline {subsection}{\numberline {2.4.2}Statistical Modeling}{29}{subsection.37}
-\contentsline {subsubsection}{\numberline {2.4.2.1}Stochastic Block Model}{29}{subsubsection.38}
-\contentsline {subsubsection}{\numberline {2.4.2.2}Exponential Random Graph Model}{30}{subsubsection.40}
-\contentsline {subsubsection}{\numberline {2.4.2.3}Temporal Exponential Random Graph Model}{32}{subsubsection.42}
-\contentsline {subsubsection}{\numberline {2.4.2.4}Latent Network Model}{33}{subsubsection.43}
-\contentsline {chapter}{\numberline {3}Results: The Malaria Co-authorship Network}{36}{chapter.46}
-\contentsline {section}{\numberline {3.1}Data}{36}{section.47}
-\contentsline {section}{\numberline {3.2}Descriptive Data Analysis}{38}{section.49}
-\contentsline {subsection}{\numberline {3.2.1}Network Cohesion}{40}{subsection.53}
-\contentsline {section}{\numberline {3.3}Modeling}{43}{section.55}
-\contentsline {subsection}{\numberline {3.3.1}Mathematical Modeling}{43}{subsection.56}
-\contentsline {subsection}{\numberline {3.3.2}Statistical Modeling}{46}{subsection.59}
-\contentsline {subsubsection}{\numberline {3.3.2.1}Stochastic Block Model}{46}{subsubsection.60}
-\contentsline {subsubsection}{\numberline {3.3.2.2}Exponential Random Graph Model}{48}{subsubsection.64}
-\contentsline {subsubsection}{\numberline {3.3.2.3}Temporal Exponential Random Graph Model}{52}{subsubsection.67}
-\contentsline {subsubsection}{\numberline {3.3.2.4}Latent Network Model}{58}{subsubsection.71}
-\contentsline {section}{\numberline {3.4}Discussion and Conclusion}{61}{section.74}
-\contentsline {chapter}{\numberline {4}Results: The HIV/AIDS Co-authorship Network}{68}{chapter.75}
-\contentsline {section}{\numberline {4.1}Data}{68}{section.76}
-\contentsline {section}{\numberline {4.2}Descriptive Data Analysis}{70}{section.79}
-\contentsline {subsection}{\numberline {4.2.1}Network Cohesion}{71}{subsection.83}
-\contentsline {section}{\numberline {4.3}Modeling}{74}{section.85}
-\contentsline {subsection}{\numberline {4.3.1}Mathematical Modeling}{74}{subsection.86}
-\contentsline {subsection}{\numberline {4.3.2}Statistical Modeling}{78}{subsection.89}
-\contentsline {subsubsection}{\numberline {4.3.2.1}Stochastic Block Model}{78}{subsubsection.90}
-\contentsline {subsubsection}{\numberline {4.3.2.2}Exponential Random Graph Model}{81}{subsubsection.94}
-\contentsline {subsubsection}{\numberline {4.3.2.3}Temporal Exponential Random Graph Model}{83}{subsubsection.97}
-\contentsline {subsubsection}{\numberline {4.3.2.4}Latent Network Model}{87}{subsubsection.101}
-\contentsline {section}{\numberline {4.4}Discussion and Conclusion}{90}{section.104}
-\contentsline {chapter}{\numberline {5}Results: The Tuberculosis Co-authorship Network}{93}{chapter.105}
-\contentsline {section}{\numberline {5.1}Data}{93}{section.106}
-\contentsline {section}{\numberline {5.2}Descriptive Data Analysis}{95}{section.109}
-\contentsline {subsection}{\numberline {5.2.1}Network Cohesion}{97}{subsection.113}
-\contentsline {section}{\numberline {5.3}Modeling}{100}{section.115}
-\contentsline {subsection}{\numberline {5.3.1}Mathematical Modeling}{100}{subsection.116}
-\contentsline {subsection}{\numberline {5.3.2}Statistical Modeling}{103}{subsection.119}
-\contentsline {subsubsection}{\numberline {5.3.2.1}Stochastic Block Model}{103}{subsubsection.120}
-\contentsline {subsubsection}{\numberline {5.3.2.2}Exponential Random Graph Model}{105}{subsubsection.123}
-\contentsline {subsubsection}{\numberline {5.3.2.3}Temporal Exponential Random Graph Model}{107}{subsubsection.126}
-\contentsline {subsubsection}{\numberline {5.3.2.4}Latent Network Model}{111}{subsubsection.130}
-\contentsline {section}{\numberline {5.4}Discussion and Conclusion}{113}{section.133}
-\contentsline {chapter}{\numberline {6}AuthorVis: A Co-authorship Visualization and Scientific Collaboration Prediction tool}{117}{chapter.134}
-\contentsline {section}{\numberline {6.1}Background}{117}{section.135}
-\contentsline {section}{\numberline {6.2}Related work}{118}{section.136}
-\contentsline {section}{\numberline {6.3}Design and Architecture}{120}{section.137}
-\contentsline {subsection}{\numberline {6.3.1}Data}{121}{subsection.139}
-\contentsline {subsection}{\numberline {6.3.2}Network Visualization}{121}{subsection.140}
-\contentsline {subsection}{\numberline {6.3.3}Web Framework}{122}{subsection.142}
-\contentsline {section}{\numberline {6.4}Deployment}{123}{section.143}
-\contentsline {chapter}{General Conclusion}{124}{chapter*.144}
-\contentsline {chapter}{Bibliography}{127}{dummy.146}
+\contentsline {chapter}{List of Figures}{ix}{dummy.2}
+\contentsline {chapter}{List of Tables}{xiv}{dummy.4}
+\contentsline {chapter}{List of Abbreviations}{xvi}{dummy.6}
+\contentsline {chapter}{Acknowledgements}{xix}{dummy.9}
+\vspace {1em}
+\contentsline {chapter}{\numberline {1}General Introduction}{1}{chapter.10}
+\contentsline {section}{\numberline {1.1}General and specific Objectives}{5}{section.11}
+\contentsline {section}{\numberline {1.2}Hypotheses}{7}{section.17}
+\contentsline {chapter}{\numberline {2}A review of the related literature on disease research and applications of network analysis}{8}{chapter.18}
+\contentsline {section}{\numberline {2.1}Brief Overview of Malaria, Tuberculosis and HIV/AIDS}{8}{section.19}
+\contentsline {section}{\numberline {2.2}Network Analysis of Scientific Research collaboration}{12}{section.20}
+\contentsline {section}{\numberline {2.3}Visualization tools for Co-authorship Networks}{21}{section.21}
+\contentsline {chapter}{\numberline {3}A review of past approaches to the analysis of bibliometric data and co-authorship networks}{23}{chapter.22}
+\contentsline {section}{\numberline {3.1}Author Name Disambiguation}{24}{section.23}
+\contentsline {section}{\numberline {3.2}Basic Descriptive Analysis for Network Graphs}{25}{section.24}
+\contentsline {subsection}{\numberline {3.2.1}Characterizing Network cohesion}{27}{subsection.28}
+\contentsline {section}{\numberline {3.3}Modeling of Network data}{28}{section.31}
+\contentsline {subsection}{\numberline {3.3.1}Mathematical models for Network Graphs}{29}{subsection.33}
+\contentsline {subsection}{\numberline {3.3.2}Statistical models for Network Graphs}{30}{subsection.34}
+\contentsline {subsubsection}{\numberline {3.3.2.1}Stochastic Block Model}{30}{subsubsection.35}
+\contentsline {subsubsection}{\numberline {3.3.2.2}Exponential Random Graph Model}{31}{subsubsection.38}
+\contentsline {subsubsection}{\numberline {3.3.2.3}Temporal Exponential Random Graph Model}{32}{subsubsection.41}
+\contentsline {subsubsection}{\numberline {3.3.2.4}Latent Network Model}{33}{subsubsection.42}
+\contentsline {chapter}{\numberline {4}Methodology}{34}{chapter.45}
+\contentsline {section}{\numberline {4.1}Overview}{34}{section.46}
+\contentsline {section}{\numberline {4.2}Data Collection}{36}{section.48}
+\contentsline {subsection}{\numberline {4.2.1}Parsing and Information Disambiguation}{37}{subsection.49}
+\contentsline {subsection}{\numberline {4.2.2}Network Generation}{37}{subsection.50}
+\contentsline {section}{\numberline {4.3}Descriptive Data Analysis}{38}{section.51}
+\contentsline {subsection}{\numberline {4.3.1}Characterizing Network cohesion}{38}{subsection.52}
+\contentsline {section}{\numberline {4.4}Modeling of Network Data}{40}{section.53}
+\contentsline {subsection}{\numberline {4.4.1}Mathematical Modeling}{40}{subsection.54}
+\contentsline {subsection}{\numberline {4.4.2}Statistical Modeling}{40}{subsection.55}
+\contentsline {subsubsection}{\numberline {4.4.2.1}Stochastic Block Model}{41}{subsubsection.56}
+\contentsline {subsubsection}{\numberline {4.4.2.2}Exponential Random Graph Model}{42}{subsubsection.57}
+\contentsline {subsubsection}{\numberline {4.4.2.3}Temporal Exponential Random Graph Model}{43}{subsubsection.58}
+\contentsline {subsubsection}{\numberline {4.4.2.4}Latent Network Model}{44}{subsubsection.59}
+\contentsline {chapter}{\numberline {5}Results: The Malaria Co-authorship Network}{45}{chapter.60}
+\contentsline {section}{\numberline {5.1}Data}{45}{section.61}
+\contentsline {section}{\numberline {5.2}Descriptive Data Analysis}{47}{section.64}
+\contentsline {subsection}{\numberline {5.2.1}Network Cohesion}{48}{subsection.67}
+\contentsline {section}{\numberline {5.3}Modeling}{52}{section.69}
+\contentsline {subsection}{\numberline {5.3.1}Mathematical Modeling}{52}{subsection.70}
+\contentsline {subsection}{\numberline {5.3.2}Statistical Modeling}{55}{subsection.73}
+\contentsline {subsubsection}{\numberline {5.3.2.1}Stochastic Block Model}{55}{subsubsection.74}
+\contentsline {subsubsection}{\numberline {5.3.2.2}Exponential Random Graph Model}{58}{subsubsection.78}
+\contentsline {subsubsection}{\numberline {5.3.2.3}Temporal Exponential Random Graph Model}{62}{subsubsection.81}
+\contentsline {subsubsection}{\numberline {5.3.2.4}Latent Network Model}{68}{subsubsection.85}
+\contentsline {section}{\numberline {5.4}Discussion and Conclusion}{71}{section.88}
+\contentsline {chapter}{\numberline {6}Results: The HIV/AIDS Co-authorship Network}{78}{chapter.89}
+\contentsline {section}{\numberline {6.1}Data}{78}{section.90}
+\contentsline {section}{\numberline {6.2}Descriptive Data Analysis}{80}{section.93}
+\contentsline {subsection}{\numberline {6.2.1}Network Cohesion}{83}{subsection.97}
+\contentsline {section}{\numberline {6.3}Modeling}{85}{section.99}
+\contentsline {subsection}{\numberline {6.3.1}Mathematical Modeling}{85}{subsection.100}
+\contentsline {subsection}{\numberline {6.3.2}Statistical Modeling}{88}{subsection.103}
+\contentsline {subsubsection}{\numberline {6.3.2.1}Stochastic Block Model}{88}{subsubsection.104}
+\contentsline {subsubsection}{\numberline {6.3.2.2}Exponential Random Graph Model}{91}{subsubsection.108}
+\contentsline {subsubsection}{\numberline {6.3.2.3}Temporal Exponential Random Graph Model}{94}{subsubsection.111}
+\contentsline {subsubsection}{\numberline {6.3.2.4}Latent Network Model}{98}{subsubsection.115}
+\contentsline {section}{\numberline {6.4}Discussion and Conclusion}{101}{section.118}
+\contentsline {chapter}{\numberline {7}Results: The Tuberculosis Co-authorship Network}{104}{chapter.119}
+\contentsline {section}{\numberline {7.1}Data}{104}{section.120}
+\contentsline {section}{\numberline {7.2}Descriptive Data Analysis}{106}{section.123}
+\contentsline {subsection}{\numberline {7.2.1}Network Cohesion}{107}{subsection.127}
+\contentsline {section}{\numberline {7.3}Modeling}{110}{section.129}
+\contentsline {subsection}{\numberline {7.3.1}Mathematical Modeling}{110}{subsection.130}
+\contentsline {subsection}{\numberline {7.3.2}Statistical Modeling}{113}{subsection.133}
+\contentsline {subsubsection}{\numberline {7.3.2.1}Stochastic Block Model}{113}{subsubsection.134}
+\contentsline {subsubsection}{\numberline {7.3.2.2}Exponential Random Graph Model}{115}{subsubsection.137}
+\contentsline {subsubsection}{\numberline {7.3.2.3}Temporal Exponential Random Graph Model}{118}{subsubsection.140}
+\contentsline {subsubsection}{\numberline {7.3.2.4}Latent Network Model}{122}{subsubsection.144}
+\contentsline {section}{\numberline {7.4}Discussion and Conclusion}{125}{section.147}
+\contentsline {chapter}{\numberline {8}AuthorVis: A Co-authorship Visualization and Scientific Collaboration Prediction tool}{128}{chapter.148}
+\contentsline {section}{\numberline {8.1}Background}{128}{section.149}
+\contentsline {section}{\numberline {8.2}Data}{129}{section.150}
+\contentsline {section}{\numberline {8.3}Programmer View}{130}{section.151}
+\contentsline {subsection}{\numberline {8.3.1}Design and Architecture}{130}{subsection.152}
+\contentsline {section}{\numberline {8.4}User View}{131}{section.154}
+\contentsline {subsection}{\numberline {8.4.1}Shiny Dashboard Interface}{131}{subsection.155}
+\contentsline {subsection}{\numberline {8.4.2}Network Visualization Interface}{133}{subsection.158}
+\contentsline {section}{\numberline {8.5}Deployment}{135}{section.160}
+\contentsline {chapter}{\numberline {9}General Conclusion}{137}{chapter.161}
+\contentsline {chapter}{Bibliography}{141}{dummy.164}
+\contentsline {chapter}{Appendix}{170}{chapter*.166}
+\contentsline {chapter}{Curriculum Vitae}{193}{dummy.167}

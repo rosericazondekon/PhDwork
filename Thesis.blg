@@ -1,7 +1,6 @@
 This is BibTeX, Version 0.99dThe top-level auxiliary file: Thesis.aux
 The style file: unsrtnat.bst
 Database file #1: bibliography.bib
-Warning--I didn't find a database entry for ""
 Warning--you've exceeded 5000, the global-string-size, for entry murray_global_2014
 while executing--line 1315 of file unsrtnat.bst
 *Please notify the bibstyle designer*
@@ -10,17 +9,20 @@ Warning--empty publisher in world_health_organization_economic_2000
 Warning--empty journal in world_health_organization_multidrug_2010
 Warning--empty journal in eugene_citation_1979
 Warning--empty publisher in mali_dynamic_2012
-Warning--empty booktitle in schult_exploring_2008
-Warning--empty booktitle in giles_name_2005
-Warning--empty booktitle in hoff_modeling_2008
-Warning--empty booktitle in bales_social_2008
-Warning--empty journal in world_health_organization_global_2016
-Warning--empty journal in world_health_organization_atlas_2016
-Warning--empty booktitle in nakazono_nel_2006
 Warning--empty booktitle in liu_toolkits_2004
-Warning--empty booktitle in horak_forcoa.net:_2011
 Warning--empty booktitle in barbosa_vrrc:_2012
+Warning--empty booktitle in nakazono_nel_2006
 Warning--empty booktitle in toyoda_system_2005
 Warning--empty booktitle in chen_visualizing_1999
+Warning--empty booktitle in HanNamedisambiguationauthor2005
+Warning--empty booktitle in DeRoseDBLifecommunityinformation2007
+Warning--empty booktitle in giles_name_2005
+Warning--empty booktitle in schult_exploring_2008
+Warning--empty booktitle in hoff_modeling_2008
+Warning--empty booktitle in bales_social_2008
+Warning--empty journal in world_health_organization_atlas_2016
+Warning--empty booktitle in horak_forcoa.net:_2011
 Warning--empty journal in chang_shiny:_2017
-(There were 20 warnings)
+Warning--empty booktitle in Forerostatisticalmodelbrain2017
+Warning--empty journal in ForeroGraphModelsBrain2015
+(There were 22 warnings)

@@ -52,3 +52,9 @@ Temporary Items
 .gz
 .log
 .blg
+.out
+.lot
+.toc
+.bbl
+.aux
+.dvi
