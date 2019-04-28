@@ -47,14 +47,14 @@ Temporary Items
 .apdisk
 
 # Extra file formats
-.rda
-.rds
-.gz
-.log
-.blg
-.out
-.lot
-.toc
-.bbl
-.aux
-.dvi
+*.rda
+*.rds
+*.gz
+*.log
+*.blg
+*.out
+*.lot
+*.toc
+*.bbl
+*.aux
+*.dvi
